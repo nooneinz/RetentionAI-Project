@@ -1,0 +1,265 @@
+{% extends "base.html" %}
+{% block title %}RetentionAI Portal | Login{% endblock %}
+
+{% block extra_styles %}
+        /* Override base layout to center form wrapper cleanly */
+        .login-wrapper {
+            display: flex;
+            width: 95%;
+            max-width: 1050px;
+            height: 600px;
+            background: #FFFFFF;
+            border: 2px solid var(--border-color);
+            border-radius: 4px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            margin: 40px auto;
+        }
+
+        /* Branding Side Panel */
+        .brand-panel {
+            flex: 1.1;
+            background-color: var(--primary-navy);
+            color: #FFFFFF;
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            position: relative;
+        }
+
+        .brand-panel::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 6px;
+            background-color: var(--accent-green);
+        }
+
+        .brand-header h1 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            line-height: 1.25;
+            margin-bottom: 15px;
+            letter-spacing: -0.5px;
+            border-bottom: 2px solid var(--accent-green);
+            padding-bottom: 15px;
+        }
+
+        .brand-header p {
+            font-size: 1.05rem;
+            color: #E2E8F0;
+            margin-top: 15px;
+            line-height: 1.6;
+        }
+
+        .brand-footer {
+            margin-top: auto;
+        }
+
+        .brand-meta {
+            font-size: 0.85rem;
+            color: #A0AEC0;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 600;
+        }
+
+        .brand-badges {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+
+        .brand-badge {
+            background-color: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #FFFFFF;
+            font-size: 0.75rem;
+            padding: 5px 12px;
+            border-radius: 2px;
+            font-weight: 600;
+        }
+
+        /* Login Interface Form Side */
+        .form-panel {
+            flex: 1;
+            padding: 50px 60px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .form-header {
+            margin-bottom: 30px;
+        }
+
+        .form-header h2 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--primary-navy);
+            margin-bottom: 8px;
+        }
+
+        .form-header p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+
+        .input-group {
+            margin-bottom: 20px;
+        }
+
+        .input-group label {
+            display: block;
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--text-dark);
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .input-group input, 
+        .input-group select {
+            width: 100%;
+            padding: 12px 16px;
+            font-family: inherit;
+            font-size: 0.95rem;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            background-color: #FFFFFF;
+            color: var(--text-dark);
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        .input-group input:focus, 
+        .input-group select:focus {
+            outline: none;
+            border-color: var(--primary-navy);
+            box-shadow: 0 0 0 3px rgba(27, 54, 93, 0.15);
+        }
+
+        .btn-submit {
+            width: 100%;
+            padding: 14px;
+            font-family: inherit;
+            font-size: 1rem;
+            font-weight: 600;
+            color: #FFFFFF;
+            background-color: var(--primary-navy);
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            margin-top: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .btn-submit:hover {
+            background-color: #122540;
+        }
+
+        .error-container {
+            background-color: #FDF2F2;
+            border: 1px solid #F8B4B4;
+            color: #9B1C1C;
+            padding: 12px 16px;
+            border-radius: 4px;
+            font-size: 0.88rem;
+            margin-bottom: 25px;
+            display: flex;
+            align-items: center;
+            font-weight: 500;
+        }
+
+        .error-icon {
+            margin-right: 10px;
+            font-size: 1.1rem;
+        }
+
+        @media (max-width: 900px) {
+            .login-wrapper {
+                flex-direction: column;
+                height: auto;
+                max-width: 500px;
+            }
+            .brand-panel {
+                padding: 40px;
+                height: 250px;
+            }
+            .form-panel {
+                padding: 40px 30px;
+            }
+        }
+{% endblock %}
+
+{% block content %}
+<div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; padding: 40px 0; background-color: var(--bg-light);">
+    <div class="login-wrapper">
+        <!-- Brand Information Section -->
+        <div class="brand-panel">
+            <div class="brand-header">
+                <h1><i class="fa-solid fa-brain"></i> RetentionAI</h1>
+                <p><strong>Predictive Learning Analytics & Student Retention System</strong></p>
+                <p>An institutional-grade deep learning gateway powered by a Hybrid CNN-RNN model, delivering continuous academic risk classification and localized Microsoft Teams intervention coordination.</p>
+            </div>
+            
+            <div class="brand-footer">
+                <div class="brand-meta">Department of Learning Analytics</div>
+                <div class="brand-badges">
+                    <span class="brand-badge">CNN-RNN DEEP LEARNING</span>
+                    <span class="brand-badge">SECURE RBAC</span>
+                    <span class="brand-badge">TEAMS COORDINATION</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Login Controls Section -->
+        <div class="form-panel">
+            <div class="form-header">
+                <h2>Portal Workspace Authentication</h2>
+                <p>Please log in with your institutional credentials.</p>
+            </div>
+
+            <!-- Error display container -->
+            {% with messages = get_flashed_messages() %}
+              {% if messages %}
+                <div class="error-container">
+                    <span class="error-icon"><i class="fa-solid fa-triangle-exclamation"></i></span>
+                    <span>{{ messages[0] }}</span>
+                </div>
+              {% endif %}
+            {% endwith %}
+
+            <form action="/login" method="POST">
+                <div class="input-group">
+                    <label for="email">Institutional ID / Email</label>
+                    <input type="text" id="email" name="email" placeholder="e.g. admin@retentionai.com" required autocomplete="username">
+                </div>
+
+                <div class="input-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" placeholder="••••••••" required autocomplete="current-password">
+                </div>
+
+                <div class="input-group">
+                    <label for="role">Portal Workspace Role</label>
+                    <select id="role" name="role" required>
+                        <option value="" disabled selected>Select workspace...</option>
+                        <option value="Student">Student Portal (Academic Summary)</option>
+                        <option value="Instructor">Instructor Center (Learning Analytics)</option>
+                        <option value="Admin">System Administrator Dashboard</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn-submit">Sign In to Portal</button>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

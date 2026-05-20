@@ -1,0 +1,1001 @@
+student_no,programme,gpa,quiz_score,assignment_score,attendance,engagement_score,semester,course_name,financial_status
+KGL1000,Computer Science,2.91,72,74,76.1,69.3,Semester 1,Database Systems,Scholarship
+KGL1001,Computer Science,3.29,69,88,80.1,83.2,Semester 2,Web Development,Stable
+KGL1002,Computer Science,3.71,90,93,97.7,96.2,Semester 1,Mathematics & Statistics,Stable
+KGL1003,Computer Science,1.97,47,44,55.5,54.5,Semester 2,Machine Learning,Stable
+KGL1004,Computer Science,3.05,76,75,78.9,72.7,Semester 1,Database Systems,Stable
+KGL1005,Computer Science,3.09,71,78,77.1,77.6,Semester 2,Data Structures,Scholarship
+KGL1006,Computer Science,3.67,88,92,91.9,100.0,Semester 1,Introduction to Programming,Stable
+KGL1007,Computer Science,1.63,40,39,43.6,43.7,Semester 2,Web Development,Stable
+KGL1008,Computer Science,2.6,64,67,65.6,63.9,Semester 1,Database Systems,Stable
+KGL1009,Computer Science,1.97,38,50,48.6,67.3,Semester 2,Data Structures,Stable
+KGL1010,Computer Science,2.19,58,52,49.8,58.3,Semester 1,Mathematics & Statistics,Stable
+KGL1011,Computer Science,1.8,40,43,45.7,57.8,Semester 2,Data Structures,Stable
+KGL1012,Computer Science,2.92,65,73,68.2,86.6,Semester 1,Mathematics & Statistics,Under Review
+KGL1013,Engineering,2.93,78,70,71.0,69.7,Semester 2,Web Development,Scholarship
+KGL1014,Engineering,2.15,50,58,46.9,56.6,Semester 1,Introduction to Programming,Stable
+KGL1015,Engineering,2.96,69,78,70.8,78.9,Semester 2,Data Structures,Scholarship
+KGL1016,Engineering,3.51,88,86,93.4,86.9,Semester 1,Database Systems,Stable
+KGL1017,Engineering,1.04,18,28,40.0,38.6,Semester 2,Web Development,Stable
+KGL1018,Engineering,1.79,46,46,48.7,37.3,Semester 1,Introduction to Programming,Stable
+KGL1019,Engineering,2.31,54,61,49.9,51.8,Semester 2,Web Development,Stable
+KGL1020,Engineering,2.64,66,63,68.5,70.9,Semester 1,Introduction to Programming,Stable
+KGL1021,Engineering,2.8,65,70,73.4,77.4,Semester 2,Data Structures,Stable
+KGL1022,Engineering,2.01,44,53,55.2,40.2,Semester 1,Introduction to Programming,Stable
+KGL1023,Engineering,2.87,69,73,73.1,75.3,Semester 2,Data Structures,Stable
+KGL1024,Engineering,3.0,74,80,79.3,72.1,Semester 1,Database Systems,Stable
+KGL1025,Engineering,2.92,73,72,71.1,72.5,Semester 2,Web Development,Stable
+KGL1026,Engineering,2.37,69,55,56.9,56.4,Semester 1,Mathematics & Statistics,Stable
+KGL1027,Engineering,2.81,67,75,73.9,72.5,Semester 2,Machine Learning,Scholarship
+KGL1028,Engineering,2.73,70,65,67.5,73.3,Semester 1,Introduction to Programming,Scholarship
+KGL1029,Engineering,2.76,62,75,79.1,71.5,Semester 2,Web Development,Under Review
+KGL1030,Engineering,2.89,69,74,72.8,80.6,Semester 1,Mathematics & Statistics,Stable
+KGL1031,Engineering,2.52,63,61,57.4,67.6,Semester 2,Data Structures,Scholarship
+KGL1032,Engineering,2.57,56,65,66.8,70.0,Semester 1,Database Systems,Under Review
+KGL1033,Engineering,1.6,40,38,44.6,44.4,Semester 2,Machine Learning,Stable
+KGL1034,Engineering,3.55,97,82,89.5,97.1,Semester 1,Mathematics & Statistics,Stable
+KGL1035,Engineering,3.21,81,79,78.7,77.4,Semester 2,Web Development,Stable
+KGL1036,Engineering,3.17,74,83,77.2,78.9,Semester 1,Introduction to Programming,Under Review
+KGL1037,Engineering,2.31,50,59,51.5,69.6,Semester 2,Web Development,Stable
+KGL1038,Engineering,3.37,75,88,86.1,91.9,Semester 1,Database Systems,Scholarship
+KGL1039,Engineering,2.27,57,57,56.3,54.7,Semester 2,Machine Learning,Stable
+KGL1040,Engineering,2.27,55,54,64.0,78.4,Semester 1,Database Systems,Stable
+KGL1041,Engineering,2.65,58,68,65.4,72.2,Semester 2,Web Development,Stable
+KGL1042,Engineering,2.35,53,65,68.4,69.9,Semester 1,Introduction to Programming,Stable
+KGL1043,Engineering,2.53,59,66,66.6,67.7,Semester 2,Machine Learning,Stable
+KGL1044,Engineering,2.13,50,54,47.7,58.1,Semester 1,Database Systems,Stable
+KGL1045,Engineering,2.35,65,57,57.3,57.3,Semester 2,Data Structures,Stable
+KGL1046,Engineering,2.43,55,62,60.3,61.9,Semester 1,Introduction to Programming,Stable
+KGL1047,Engineering,2.84,66,76,73.8,78.5,Semester 2,Data Structures,Stable
+KGL1048,Engineering,2.76,57,76,66.6,79.6,Semester 1,Introduction to Programming,Stable
+KGL1049,Engineering,3.31,82,82,85.5,79.1,Semester 2,Machine Learning,Stable
+KGL1050,Engineering,2.08,53,48,53.5,53.6,Semester 1,Mathematics & Statistics,Stable
+KGL1051,Engineering,2.85,77,68,65.7,75.1,Semester 2,Web Development,Stable
+KGL1052,Engineering,1.85,53,42,47.5,46.8,Semester 1,Introduction to Programming,Stable
+KGL1053,Engineering,3.21,88,75,75.3,77.4,Semester 2,Machine Learning,Stable
+KGL1054,Engineering,3.23,71,87,77.2,86.9,Semester 1,Database Systems,Stable
+KGL1055,Engineering,1.56,33,43,42.1,38.4,Semester 2,Web Development,Stable
+KGL1056,Engineering,3.37,82,86,80.2,86.8,Semester 1,Database Systems,Stable
+KGL1057,Engineering,2.08,52,49,53.0,63.7,Semester 2,Data Structures,Stable
+KGL1058,Engineering,2.33,58,58,63.1,58.7,Semester 1,Mathematics & Statistics,Stable
+KGL1059,Engineering,0.36,0,10,40.0,30.0,Semester 2,Web Development,Stable
+KGL1060,Engineering,3.0,79,72,73.5,73.5,Semester 1,Mathematics & Statistics,Scholarship
+KGL1061,Engineering,1.49,39,34,40.0,36.7,Semester 2,Web Development,Stable
+KGL1062,Engineering,2.37,62,55,64.7,62.5,Semester 1,Introduction to Programming,Stable
+KGL1063,Engineering,2.93,69,71,72.3,81.9,Semester 2,Data Structures,Stable
+KGL1064,Engineering,2.35,59,59,57.7,62.2,Semester 1,Introduction to Programming,Stable
+KGL1065,Engineering,2.56,67,61,67.0,66.7,Semester 2,Machine Learning,Stable
+KGL1066,Engineering,1.59,45,37,42.7,30.6,Semester 1,Mathematics & Statistics,Under Review
+KGL1067,Engineering,2.75,60,74,68.4,71.3,Semester 2,Machine Learning,Scholarship
+KGL1068,Engineering,2.33,61,56,56.1,56.1,Semester 1,Mathematics & Statistics,Stable
+KGL1069,Engineering,2.13,39,57,47.3,63.9,Semester 2,Web Development,Stable
+KGL1070,Engineering,2.59,58,73,57.2,65.3,Semester 1,Mathematics & Statistics,Scholarship
+KGL1071,Engineering,2.41,63,63,52.8,56.5,Semester 2,Machine Learning,Stable
+KGL1072,Engineering,1.87,41,48,59.1,62.1,Semester 1,Introduction to Programming,Stable
+KGL1073,Engineering,2.32,61,56,58.5,60.6,Semester 2,Data Structures,Scholarship
+KGL1074,Engineering,1.85,49,41,40.0,51.9,Semester 1,Introduction to Programming,Stable
+KGL1075,Engineering,1.64,44,38,40.0,37.1,Semester 2,Machine Learning,Stable
+KGL1076,Engineering,1.04,30,22,40.0,30.0,Semester 1,Database Systems,Stable
+KGL1077,Engineering,3.19,80,81,89.0,78.2,Semester 2,Data Structures,Scholarship
+KGL1078,Engineering,2.76,61,72,61.7,76.4,Semester 1,Mathematics & Statistics,Stable
+KGL1079,Engineering,2.64,62,68,64.1,66.5,Semester 2,Machine Learning,Scholarship
+KGL1080,Engineering,1.95,47,50,44.4,48.9,Semester 1,Introduction to Programming,Stable
+KGL1081,Engineering,1.85,49,45,51.1,37.8,Semester 2,Data Structures,Stable
+KGL1082,Engineering,2.01,50,54,47.7,41.8,Semester 1,Mathematics & Statistics,Stable
+KGL1083,Engineering,2.65,72,63,63.6,65.1,Semester 2,Data Structures,Stable
+KGL1084,Engineering,1.53,42,34,40.0,39.1,Semester 1,Mathematics & Statistics,Stable
+KGL1085,Engineering,3.13,73,82,81.7,84.8,Semester 2,Machine Learning,Scholarship
+KGL1086,Engineering,3.29,76,88,85.6,79.2,Semester 1,Mathematics & Statistics,Scholarship
+KGL1087,Engineering,2.88,71,74,70.8,71.5,Semester 2,Data Structures,Stable
+KGL1088,Engineering,2.6,58,67,56.1,68.1,Semester 1,Database Systems,Stable
+KGL1089,Engineering,3.21,73,82,82.1,81.2,Semester 2,Machine Learning,Stable
+KGL1090,Engineering,2.81,65,74,68.9,74.0,Semester 1,Database Systems,Stable
+KGL1091,Engineering,1.29,27,36,40.0,35.4,Semester 2,Web Development,Stable
+KGL1092,Engineering,2.95,71,71,81.3,79.3,Semester 1,Introduction to Programming,Scholarship
+KGL1093,Engineering,1.84,43,50,46.5,41.5,Semester 2,Web Development,Stable
+KGL1094,Engineering,3.43,79,92,81.5,78.5,Semester 1,Introduction to Programming,Stable
+KGL1095,Engineering,3.21,78,82,90.3,83.1,Semester 2,Data Structures,Stable
+KGL1096,Engineering,2.57,65,62,65.2,66.2,Semester 1,Database Systems,Stable
+KGL1097,Engineering,2.73,63,70,69.7,74.2,Semester 2,Machine Learning,Stable
+KGL1098,Engineering,2.49,58,62,56.8,62.7,Semester 1,Introduction to Programming,Stable
+KGL1099,Engineering,2.59,65,62,62.6,62.2,Semester 2,Machine Learning,Stable
+KGL1100,Engineering,2.84,79,67,73.3,65.4,Semester 1,Introduction to Programming,Stable
+KGL1101,Engineering,2.88,68,74,75.4,66.9,Semester 2,Machine Learning,Stable
+KGL1102,Engineering,3.53,85,89,88.0,93.4,Semester 1,Database Systems,Scholarship
+KGL1103,Engineering,2.01,60,47,55.5,41.6,Semester 2,Data Structures,Under Review
+KGL1104,Engineering,3.65,98,90,96.2,88.6,Semester 1,Introduction to Programming,Under Review
+KGL1105,Engineering,2.63,58,72,62.7,65.5,Semester 2,Machine Learning,Stable
+KGL1106,Engineering,3.83,87,100,97.9,100.0,Semester 1,Mathematics & Statistics,Scholarship
+KGL1107,Engineering,2.57,66,64,64.4,53.1,Semester 2,Web Development,Stable
+KGL1108,Engineering,2.64,52,70,67.7,75.4,Semester 1,Introduction to Programming,Stable
+KGL1109,Engineering,2.75,70,72,73.7,68.1,Semester 2,Web Development,Stable
+KGL1110,Engineering,3.52,77,98,88.2,84.7,Semester 1,Introduction to Programming,Stable
+KGL1111,Engineering,2.21,62,49,54.8,60.6,Semester 2,Data Structures,Stable
+KGL1112,Engineering,2.05,54,47,51.0,53.7,Semester 1,Database Systems,Scholarship
+KGL1113,Engineering,2.17,51,54,54.0,61.9,Semester 2,Data Structures,Scholarship
+KGL1114,Engineering,3.99,99,100,97.6,100.0,Semester 1,Introduction to Programming,Under Review
+KGL1115,Engineering,3.13,84,74,84.8,73.5,Semester 2,Machine Learning,Stable
+KGL1116,Engineering,3.23,75,82,76.3,76.6,Semester 1,Database Systems,Stable
+KGL1117,Engineering,3.19,78,79,66.0,81.5,Semester 2,Web Development,Stable
+KGL1118,Engineering,2.33,51,61,54.6,55.6,Semester 1,Mathematics & Statistics,Stable
+KGL1119,Engineering,2.52,55,65,59.3,64.0,Semester 2,Web Development,Stable
+KGL1120,Engineering,3.47,79,89,85.9,93.9,Semester 1,Introduction to Programming,Stable
+KGL1121,Engineering,3.63,91,92,95.6,89.8,Semester 2,Data Structures,Scholarship
+KGL1122,Engineering,3.65,88,93,97.7,95.9,Semester 1,Introduction to Programming,Stable
+KGL1123,Engineering,2.35,63,56,63.2,62.4,Semester 2,Data Structures,Stable
+KGL1124,Engineering,3.15,83,73,80.3,73.8,Semester 1,Introduction to Programming,Stable
+KGL1125,Engineering,3.57,87,86,92.3,94.0,Semester 2,Data Structures,Scholarship
+KGL1126,Engineering,2.76,72,67,64.6,63.6,Semester 1,Mathematics & Statistics,Stable
+KGL1127,Engineering,2.88,65,74,67.7,76.6,Semester 2,Web Development,Stable
+KGL1128,Engineering,3.17,82,74,68.1,88.4,Semester 1,Database Systems,Stable
+KGL1129,Engineering,2.01,51,51,48.4,47.2,Semester 2,Machine Learning,Stable
+KGL1130,Engineering,3.4,89,82,90.6,84.0,Semester 1,Database Systems,Under Review
+KGL1131,Engineering,1.73,53,40,48.8,39.3,Semester 2,Machine Learning,Stable
+KGL1132,Engineering,3.08,87,70,79.9,71.6,Semester 1,Introduction to Programming,Stable
+KGL1133,Engineering,3.2,75,84,84.3,81.8,Semester 2,Machine Learning,Scholarship
+KGL1134,Engineering,3.04,74,75,72.1,78.5,Semester 1,Mathematics & Statistics,Stable
+KGL1135,Engineering,2.15,58,48,52.6,57.5,Semester 2,Data Structures,Stable
+KGL1136,Engineering,1.95,51,41,49.6,50.4,Semester 1,Introduction to Programming,Stable
+KGL1137,Engineering,2.41,70,56,62.3,59.8,Semester 2,Data Structures,Stable
+KGL1138,Engineering,2.56,59,67,68.1,61.5,Semester 1,Introduction to Programming,Under Review
+KGL1139,Engineering,2.68,71,69,66.1,63.0,Semester 2,Web Development,Stable
+KGL1140,Engineering,2.92,76,71,78.6,69.7,Semester 1,Mathematics & Statistics,Under Review
+KGL1141,Engineering,2.47,59,64,59.3,61.9,Semester 2,Machine Learning,Scholarship
+KGL1142,Engineering,2.01,42,54,48.4,61.6,Semester 1,Introduction to Programming,Stable
+KGL1143,Engineering,1.96,57,47,51.8,43.3,Semester 2,Data Structures,Stable
+KGL1144,Engineering,3.19,88,78,83.2,63.0,Semester 1,Mathematics & Statistics,Scholarship
+KGL1145,Engineering,1.25,22,33,40.0,35.0,Semester 2,Web Development,Stable
+KGL1146,Engineering,3.29,88,75,84.5,79.0,Semester 1,Mathematics & Statistics,Stable
+KGL1147,Engineering,2.76,73,66,65.9,71.2,Semester 2,Data Structures,Stable
+KGL1148,Engineering,2.99,68,81,68.7,74.3,Semester 1,Database Systems,Stable
+KGL1149,Engineering,3.91,100,93,100.0,100.0,Semester 2,Data Structures,Stable
+KGL1150,Engineering,2.64,62,69,67.6,66.6,Semester 1,Database Systems,Stable
+KGL1151,Engineering,2.83,77,68,67.0,66.1,Semester 2,Machine Learning,Stable
+KGL1152,Engineering,2.6,59,66,67.3,72.0,Semester 1,Mathematics & Statistics,Scholarship
+KGL1153,Engineering,2.0,54,47,46.2,57.6,Semester 2,Machine Learning,Scholarship
+KGL1154,Engineering,2.53,62,61,65.9,61.0,Semester 1,Mathematics & Statistics,Stable
+KGL1155,Engineering,3.29,70,88,82.9,86.4,Semester 2,Web Development,Stable
+KGL1156,Engineering,2.91,66,78,73.2,72.7,Semester 1,Mathematics & Statistics,Stable
+KGL1157,Engineering,2.4,60,60,64.1,63.3,Semester 2,Data Structures,Stable
+KGL1158,Engineering,3.12,61,87,74.6,79.7,Semester 1,Database Systems,Under Review
+KGL1159,Engineering,2.56,66,64,64.4,53.0,Semester 2,Web Development,Stable
+KGL1160,Engineering,3.12,82,74,84.0,82.8,Semester 1,Mathematics & Statistics,Under Review
+KGL1161,Engineering,3.31,75,85,87.5,85.1,Semester 2,Web Development,Scholarship
+KGL1162,Engineering,2.05,49,52,47.9,56.1,Semester 1,Mathematics & Statistics,Stable
+KGL1163,Engineering,2.05,52,49,57.2,55.5,Semester 2,Web Development,Stable
+KGL1164,Engineering,3.52,81,91,85.5,87.6,Semester 1,Mathematics & Statistics,Stable
+KGL1165,Engineering,3.95,96,100,96.4,96.7,Semester 2,Data Structures,Stable
+KGL1166,Engineering,2.07,53,51,46.0,40.7,Semester 1,Mathematics & Statistics,Stable
+KGL1167,Engineering,2.83,58,78,68.8,70.9,Semester 2,Machine Learning,Under Review
+KGL1168,Engineering,3.05,68,78,79.4,77.7,Semester 1,Mathematics & Statistics,Stable
+KGL1169,Engineering,2.83,67,70,64.1,76.2,Semester 2,Machine Learning,Stable
+KGL1170,Engineering,2.92,72,74,70.5,76.5,Semester 1,Introduction to Programming,Stable
+KGL1171,Engineering,3.47,94,78,86.7,85.6,Semester 2,Machine Learning,Stable
+KGL1172,Engineering,3.28,79,81,81.4,89.1,Semester 1,Introduction to Programming,Stable
+KGL1173,Engineering,2.67,63,70,58.6,71.5,Semester 2,Machine Learning,Scholarship
+KGL1174,Engineering,1.97,43,54,49.8,49.3,Semester 1,Introduction to Programming,Stable
+KGL1175,Engineering,3.45,81,87,88.4,97.3,Semester 2,Machine Learning,Stable
+KGL1176,Engineering,2.11,46,58,48.9,43.3,Semester 1,Mathematics & Statistics,Scholarship
+KGL1177,Engineering,3.0,71,77,77.9,79.6,Semester 2,Web Development,Scholarship
+KGL1178,Engineering,2.45,52,62,59.6,79.3,Semester 1,Database Systems,Stable
+KGL1179,Engineering,3.96,97,100,98.7,93.6,Semester 2,Data Structures,Stable
+KGL1180,Engineering,2.73,62,75,75.2,72.5,Semester 1,Database Systems,Stable
+KGL1181,Engineering,2.35,46,66,66.8,66.0,Semester 2,Data Structures,Stable
+KGL1182,Engineering,1.96,50,47,40.9,59.7,Semester 1,Introduction to Programming,Scholarship
+KGL1183,Engineering,2.72,65,70,67.9,74.5,Semester 2,Data Structures,Scholarship
+KGL1184,Engineering,1.95,45,49,40.0,51.3,Semester 1,Mathematics & Statistics,Scholarship
+KGL1185,Engineering,2.63,65,65,73.6,69.8,Semester 2,Web Development,Stable
+KGL1186,Engineering,2.95,80,65,75.6,77.5,Semester 1,Mathematics & Statistics,Stable
+KGL1187,Engineering,2.61,62,68,60.9,62.9,Semester 2,Web Development,Stable
+KGL1188,Engineering,1.93,48,45,56.3,47.0,Semester 1,Database Systems,Stable
+KGL1189,Engineering,3.36,77,87,81.4,87.2,Semester 2,Machine Learning,Scholarship
+KGL1190,Engineering,2.67,66,69,68.0,66.3,Semester 1,Introduction to Programming,Stable
+KGL1191,Engineering,3.17,76,79,80.9,87.7,Semester 2,Web Development,Stable
+KGL1192,Engineering,2.56,62,66,69.5,64.0,Semester 1,Introduction to Programming,Under Review
+KGL1193,Engineering,2.68,77,62,69.8,71.0,Semester 2,Machine Learning,Stable
+KGL1194,Engineering,3.17,69,85,76.4,89.1,Semester 1,Mathematics & Statistics,Stable
+KGL1195,Engineering,2.24,61,52,58.6,66.7,Semester 2,Machine Learning,Stable
+KGL1196,Engineering,2.57,59,65,64.9,69.8,Semester 1,Database Systems,Stable
+KGL1197,Engineering,2.16,55,51,48.5,62.6,Semester 2,Web Development,Under Review
+KGL1198,Engineering,2.04,45,55,61.7,62.1,Semester 1,Database Systems,Stable
+KGL1199,Engineering,3.11,78,76,75.0,66.6,Semester 2,Web Development,Stable
+KGL1200,Engineering,3.16,67,86,81.0,92.5,Semester 1,Mathematics & Statistics,Under Review
+KGL1201,Engineering,2.97,65,77,80.5,80.4,Semester 2,Web Development,Stable
+KGL1202,Engineering,2.87,69,69,73.4,71.8,Semester 1,Database Systems,Stable
+KGL1203,Engineering,2.59,57,68,67.9,67.2,Semester 2,Data Structures,Stable
+KGL1204,Engineering,1.89,59,42,45.1,35.5,Semester 1,Database Systems,Scholarship
+KGL1205,Engineering,2.97,74,78,71.8,69.2,Semester 2,Machine Learning,Stable
+KGL1206,Engineering,2.75,82,62,68.8,58.0,Semester 1,Database Systems,Stable
+KGL1207,Engineering,3.16,81,76,75.6,81.2,Semester 2,Machine Learning,Scholarship
+KGL1208,Engineering,3.08,74,76,75.0,83.5,Semester 1,Database Systems,Stable
+KGL1209,Engineering,2.47,58,66,64.5,58.4,Semester 2,Data Structures,Scholarship
+KGL1210,Engineering,3.17,80,79,81.6,76.0,Semester 1,Introduction to Programming,Stable
+KGL1211,Engineering,1.2,35,27,40.0,30.0,Semester 2,Web Development,Scholarship
+KGL1212,Engineering,2.19,42,60,49.8,57.8,Semester 1,Introduction to Programming,Under Review
+KGL1213,Engineering,2.23,60,56,53.8,55.9,Semester 2,Web Development,Stable
+KGL1214,Engineering,3.45,87,81,91.4,83.0,Semester 1,Mathematics & Statistics,Stable
+KGL1215,Engineering,3.23,84,75,82.7,80.8,Semester 2,Machine Learning,Scholarship
+KGL1216,Engineering,3.43,83,88,87.3,93.6,Semester 1,Database Systems,Under Review
+KGL1217,Engineering,1.53,34,39,42.6,38.9,Semester 2,Machine Learning,Stable
+KGL1218,Engineering,2.84,66,70,61.3,78.4,Semester 1,Database Systems,Stable
+KGL1219,Engineering,2.31,61,56,60.5,59.5,Semester 2,Data Structures,Scholarship
+KGL1220,Engineering,2.64,56,74,66.7,66.4,Semester 1,Introduction to Programming,Stable
+KGL1221,Engineering,3.27,87,73,80.9,86.3,Semester 2,Data Structures,Stable
+KGL1222,Engineering,2.43,55,62,58.6,58.6,Semester 1,Database Systems,Stable
+KGL1223,Engineering,3.21,86,75,75.8,81.8,Semester 2,Machine Learning,Stable
+KGL1224,Engineering,2.55,52,73,65.6,53.8,Semester 1,Mathematics & Statistics,Stable
+KGL1225,Engineering,2.07,45,54,55.9,49.6,Semester 2,Machine Learning,Stable
+KGL1226,Engineering,2.87,72,71,80.5,70.1,Semester 1,Database Systems,Scholarship
+KGL1227,Engineering,2.15,57,54,57.8,52.0,Semester 2,Web Development,Stable
+KGL1228,Engineering,2.72,68,64,66.2,67.1,Semester 1,Introduction to Programming,Stable
+KGL1229,Engineering,3.69,88,94,97.9,97.7,Semester 2,Web Development,Stable
+KGL1230,Engineering,2.75,76,66,68.3,58.5,Semester 1,Database Systems,Stable
+KGL1231,Engineering,1.75,46,42,44.9,43.5,Semester 2,Web Development,Stable
+KGL1232,Engineering,3.15,67,83,76.4,86.8,Semester 1,Introduction to Programming,Stable
+KGL1233,Engineering,3.43,92,78,86.5,90.8,Semester 2,Web Development,Stable
+KGL1234,Engineering,3.32,83,84,83.0,82.4,Semester 1,Mathematics & Statistics,Scholarship
+KGL1235,Engineering,3.09,80,77,71.5,77.0,Semester 2,Machine Learning,Under Review
+KGL1236,Engineering,2.61,63,67,66.0,71.1,Semester 1,Introduction to Programming,Stable
+KGL1237,Engineering,2.64,64,74,63.5,56.9,Semester 2,Machine Learning,Stable
+KGL1238,Engineering,2.09,54,51,56.8,48.7,Semester 1,Database Systems,Stable
+KGL1239,Engineering,3.25,84,80,74.9,82.6,Semester 2,Machine Learning,Stable
+KGL1240,Engineering,2.76,73,66,63.3,65.2,Semester 1,Introduction to Programming,Stable
+KGL1241,Engineering,3.28,80,83,79.5,81.0,Semester 2,Web Development,Stable
+KGL1242,Engineering,2.17,56,55,54.5,61.3,Semester 1,Introduction to Programming,Stable
+KGL1243,Engineering,2.04,59,43,52.1,55.8,Semester 2,Machine Learning,Scholarship
+KGL1244,Engineering,2.91,75,69,68.1,69.2,Semester 1,Mathematics & Statistics,Stable
+KGL1245,Engineering,3.09,85,71,68.4,70.9,Semester 2,Web Development,Stable
+KGL1246,Engineering,3.19,89,74,73.8,76.9,Semester 1,Mathematics & Statistics,Stable
+KGL1247,Engineering,2.61,58,68,59.5,71.4,Semester 2,Web Development,Under Review
+KGL1248,Engineering,2.55,65,62,65.9,65.6,Semester 1,Introduction to Programming,Stable
+KGL1249,Engineering,2.41,68,53,63.4,53.7,Semester 2,Web Development,Scholarship
+KGL1250,Engineering,1.93,47,49,51.3,57.5,Semester 1,Introduction to Programming,Scholarship
+KGL1251,Engineering,3.16,71,83,71.1,84.8,Semester 2,Machine Learning,Stable
+KGL1252,Engineering,2.67,60,70,63.8,76.0,Semester 1,Introduction to Programming,Stable
+KGL1253,Engineering,3.09,80,72,82.9,83.0,Semester 2,Web Development,Stable
+KGL1254,Engineering,2.11,54,52,65.8,53.4,Semester 1,Mathematics & Statistics,Under Review
+KGL1255,Engineering,2.73,62,70,73.3,68.0,Semester 2,Web Development,Scholarship
+KGL1256,Engineering,2.73,64,68,69.1,70.1,Semester 1,Mathematics & Statistics,Scholarship
+KGL1257,Engineering,3.09,78,77,84.5,78.0,Semester 2,Web Development,Stable
+KGL1258,Engineering,2.97,70,78,80.3,69.1,Semester 1,Introduction to Programming,Under Review
+KGL1259,Engineering,3.03,65,81,73.3,81.1,Semester 2,Web Development,Stable
+KGL1260,Engineering,2.93,64,77,71.7,71.8,Semester 1,Mathematics & Statistics,Stable
+KGL1261,Engineering,3.15,79,78,75.8,80.7,Semester 2,Data Structures,Stable
+KGL1262,Engineering,1.93,44,51,51.3,49.3,Semester 1,Introduction to Programming,Stable
+KGL1263,Engineering,3.76,99,90,97.8,95.8,Semester 2,Machine Learning,Stable
+KGL1264,Engineering,2.89,76,68,86.5,69.5,Semester 1,Mathematics & Statistics,Stable
+KGL1265,Engineering,1.89,59,41,49.6,42.1,Semester 2,Machine Learning,Stable
+KGL1266,Engineering,2.92,63,81,70.6,73.1,Semester 1,Introduction to Programming,Scholarship
+KGL1267,Engineering,2.91,69,77,73.9,70.2,Semester 2,Data Structures,Stable
+KGL1268,Engineering,3.67,88,95,90.9,97.4,Semester 1,Database Systems,Scholarship
+KGL1269,Engineering,2.89,71,70,69.1,79.4,Semester 2,Machine Learning,Stable
+KGL1270,Engineering,2.57,69,61,62.4,64.1,Semester 1,Mathematics & Statistics,Under Review
+KGL1271,Engineering,1.99,58,42,50.4,42.7,Semester 2,Web Development,Scholarship
+KGL1272,Engineering,2.11,47,58,62.5,54.8,Semester 1,Mathematics & Statistics,Scholarship
+KGL1273,Engineering,2.75,65,71,72.2,62.0,Semester 2,Data Structures,Scholarship
+KGL1274,Engineering,3.32,88,76,76.6,90.2,Semester 1,Introduction to Programming,Stable
+KGL1275,Engineering,3.12,83,73,79.5,71.0,Semester 2,Data Structures,Under Review
+KGL1276,Engineering,3.6,85,93,94.8,100.0,Semester 1,Mathematics & Statistics,Stable
+KGL1277,Engineering,2.63,59,75,59.1,63.3,Semester 2,Web Development,Scholarship
+KGL1278,Engineering,3.08,65,80,81.1,86.5,Semester 1,Introduction to Programming,Stable
+KGL1279,Engineering,2.48,73,57,66.6,52.5,Semester 2,Web Development,Stable
+KGL1280,Engineering,1.96,53,42,40.0,58.2,Semester 1,Introduction to Programming,Under Review
+KGL1281,Engineering,1.85,45,46,53.4,51.1,Semester 2,Web Development,Scholarship
+KGL1282,Engineering,3.15,73,84,74.7,77.6,Semester 1,Database Systems,Stable
+KGL1283,Engineering,3.01,70,78,77.1,81.7,Semester 2,Machine Learning,Under Review
+KGL1284,Engineering,1.72,37,46,42.2,45.8,Semester 1,Mathematics & Statistics,Stable
+KGL1285,Engineering,3.27,81,82,73.1,77.6,Semester 2,Machine Learning,Stable
+KGL1286,Engineering,3.56,97,88,84.6,82.6,Semester 1,Introduction to Programming,Stable
+KGL1287,Engineering,3.17,67,82,83.0,93.5,Semester 2,Machine Learning,Stable
+KGL1288,Engineering,3.19,88,76,86.4,77.2,Semester 1,Introduction to Programming,Stable
+KGL1289,Engineering,3.07,77,77,77.6,80.9,Semester 2,Machine Learning,Stable
+KGL1290,Engineering,2.85,76,68,70.4,68.7,Semester 1,Introduction to Programming,Stable
+KGL1291,Engineering,3.05,86,70,76.1,75.8,Semester 2,Web Development,Stable
+KGL1292,Engineering,2.4,63,57,61.7,59.2,Semester 1,Mathematics & Statistics,Stable
+KGL1293,Engineering,2.84,65,75,67.6,71.4,Semester 2,Data Structures,Stable
+KGL1294,Engineering,3.13,78,80,77.8,81.8,Semester 1,Database Systems,Scholarship
+KGL1295,Engineering,2.52,67,60,66.1,59.4,Semester 2,Machine Learning,Scholarship
+KGL1296,Engineering,1.73,46,43,44.6,46.5,Semester 1,Introduction to Programming,Stable
+KGL1297,Engineering,2.84,71,68,74.0,79.5,Semester 2,Machine Learning,Stable
+KGL1298,Engineering,1.81,40,50,41.1,43.8,Semester 1,Introduction to Programming,Stable
+KGL1299,Engineering,3.36,90,75,78.6,89.1,Semester 2,Machine Learning,Stable
+KGL1300,Engineering,3.2,81,81,86.6,82.8,Semester 1,Database Systems,Stable
+KGL1301,Engineering,2.16,56,52,52.3,54.8,Semester 2,Machine Learning,Stable
+KGL1302,Engineering,3.09,67,81,73.3,78.4,Semester 1,Database Systems,Scholarship
+KGL1303,Engineering,2.93,80,64,68.2,77.6,Semester 2,Data Structures,Scholarship
+KGL1304,Engineering,3.09,74,83,74.3,68.9,Semester 1,Introduction to Programming,Scholarship
+KGL1305,Engineering,2.73,69,69,58.3,64.4,Semester 2,Data Structures,Scholarship
+KGL1306,Engineering,3.56,99,81,92.8,90.6,Semester 1,Mathematics & Statistics,Stable
+KGL1307,Engineering,1.96,51,44,48.9,53.9,Semester 2,Data Structures,Under Review
+KGL1308,Engineering,2.55,53,67,55.4,63.7,Semester 1,Database Systems,Stable
+KGL1309,Engineering,2.11,49,52,55.5,59.0,Semester 2,Web Development,Stable
+KGL1310,Engineering,3.05,73,80,78.0,72.6,Semester 1,Database Systems,Stable
+KGL1311,Engineering,2.44,66,57,68.4,47.5,Semester 2,Machine Learning,Stable
+KGL1312,Engineering,2.61,67,68,66.6,59.2,Semester 1,Database Systems,Scholarship
+KGL1313,Engineering,2.72,68,69,67.4,72.5,Semester 2,Data Structures,Stable
+KGL1314,Engineering,2.64,59,75,57.1,75.3,Semester 1,Mathematics & Statistics,Scholarship
+KGL1315,Engineering,2.69,71,65,70.2,81.2,Semester 2,Data Structures,Stable
+KGL1316,Engineering,3.33,77,91,95.4,87.0,Semester 1,Introduction to Programming,Stable
+KGL1317,Engineering,3.11,83,78,81.2,71.9,Semester 2,Web Development,Stable
+KGL1318,Engineering,2.71,63,69,73.7,72.9,Semester 1,Mathematics & Statistics,Stable
+KGL1319,Engineering,2.45,56,63,50.5,61.8,Semester 2,Web Development,Under Review
+KGL1320,Engineering,3.07,67,84,78.7,74.8,Semester 1,Database Systems,Stable
+KGL1321,Engineering,3.2,75,79,89.2,87.9,Semester 2,Web Development,Stable
+KGL1322,Engineering,3.09,71,80,86.1,95.5,Semester 1,Introduction to Programming,Stable
+KGL1323,Engineering,1.99,43,53,52.6,53.5,Semester 2,Data Structures,Stable
+KGL1324,Engineering,1.73,41,43,40.8,51.8,Semester 1,Mathematics & Statistics,Stable
+KGL1325,Engineering,3.55,82,94,90.9,89.4,Semester 2,Data Structures,Stable
+KGL1326,Engineering,2.45,61,62,61.4,57.9,Semester 1,Database Systems,Scholarship
+KGL1327,Engineering,0.93,28,19,40.0,34.9,Semester 2,Web Development,Stable
+KGL1328,Engineering,3.12,82,77,72.7,70.2,Semester 1,Introduction to Programming,Stable
+KGL1329,Engineering,1.96,41,51,49.5,62.5,Semester 2,Machine Learning,Stable
+KGL1330,Engineering,2.56,71,61,64.1,62.4,Semester 1,Introduction to Programming,Stable
+KGL1331,Engineering,1.59,47,35,48.3,34.5,Semester 2,Web Development,Stable
+KGL1332,Engineering,2.28,62,53,59.8,57.2,Semester 1,Database Systems,Stable
+KGL1333,Engineering,3.32,90,81,83.2,82.3,Semester 2,Machine Learning,Scholarship
+KGL1334,Engineering,3.61,83,95,89.0,88.0,Semester 1,Mathematics & Statistics,Under Review
+KGL1335,Engineering,2.6,61,66,55.8,66.2,Semester 2,Web Development,Stable
+KGL1336,Engineering,2.87,76,69,61.6,70.7,Semester 1,Introduction to Programming,Stable
+KGL1337,Engineering,1.91,49,43,52.0,40.3,Semester 2,Data Structures,Stable
+KGL1338,Engineering,1.19,24,27,40.0,47.6,Semester 1,Introduction to Programming,Scholarship
+KGL1339,Engineering,2.0,35,60,56.7,61.6,Semester 2,Web Development,Scholarship
+KGL1340,Engineering,2.28,58,52,56.2,59.0,Semester 1,Database Systems,Stable
+KGL1341,Engineering,2.63,61,63,62.9,65.7,Semester 2,Web Development,Stable
+KGL1342,Engineering,2.92,69,74,67.9,74.6,Semester 1,Mathematics & Statistics,Stable
+KGL1343,Engineering,2.75,67,67,77.4,72.4,Semester 2,Machine Learning,Stable
+KGL1344,Engineering,2.92,79,67,64.4,62.2,Semester 1,Database Systems,Stable
+KGL1345,Engineering,3.03,72,75,79.9,79.1,Semester 2,Machine Learning,Stable
+KGL1346,Engineering,2.4,62,57,57.4,53.2,Semester 1,Introduction to Programming,Scholarship
+KGL1347,Engineering,3.55,77,95,91.6,95.7,Semester 2,Data Structures,Stable
+KGL1348,Engineering,2.87,75,66,71.0,74.8,Semester 1,Mathematics & Statistics,Scholarship
+KGL1349,Engineering,3.16,87,76,78.0,77.4,Semester 2,Web Development,Stable
+KGL1350,Engineering,2.48,52,69,63.7,62.1,Semester 1,Mathematics & Statistics,Stable
+KGL1351,Engineering,2.33,66,52,51.4,44.8,Semester 2,Machine Learning,Scholarship
+KGL1352,Engineering,2.95,63,80,76.0,73.8,Semester 1,Introduction to Programming,Stable
+KGL1353,Engineering,2.15,46,57,51.7,56.3,Semester 2,Machine Learning,Stable
+KGL1354,Engineering,2.67,59,70,68.2,70.1,Semester 1,Introduction to Programming,Stable
+KGL1355,Engineering,2.71,61,70,66.3,82.2,Semester 2,Web Development,Stable
+KGL1356,Engineering,2.47,63,61,69.1,62.6,Semester 1,Database Systems,Stable
+KGL1357,Engineering,2.36,42,69,64.7,56.8,Semester 2,Machine Learning,Under Review
+KGL1358,Engineering,2.43,59,61,56.9,61.8,Semester 1,Mathematics & Statistics,Under Review
+KGL1359,Engineering,3.45,80,89,91.9,88.6,Semester 2,Machine Learning,Stable
+KGL1360,Engineering,2.39,58,59,47.9,58.0,Semester 1,Introduction to Programming,Stable
+KGL1361,Engineering,3.29,85,78,87.1,87.7,Semester 2,Machine Learning,Stable
+KGL1362,Engineering,2.24,52,58,57.2,50.8,Semester 1,Introduction to Programming,Stable
+KGL1363,Engineering,1.24,27,32,40.0,31.0,Semester 2,Web Development,Stable
+KGL1364,Engineering,2.36,59,58,63.3,64.1,Semester 1,Mathematics & Statistics,Stable
+KGL1365,Engineering,2.23,49,60,65.1,60.9,Semester 2,Web Development,Under Review
+KGL1366,Engineering,2.4,69,53,61.7,63.4,Semester 1,Database Systems,Stable
+KGL1367,Engineering,2.51,61,61,75.8,64.4,Semester 2,Web Development,Stable
+KGL1368,Engineering,2.21,44,58,45.8,61.5,Semester 1,Introduction to Programming,Stable
+KGL1369,Engineering,3.23,73,85,81.9,87.4,Semester 2,Data Structures,Stable
+KGL1370,Engineering,3.09,84,71,73.1,77.4,Semester 1,Database Systems,Stable
+KGL1371,Engineering,2.51,45,70,64.8,70.6,Semester 2,Machine Learning,Under Review
+KGL1372,Engineering,2.93,74,72,73.8,80.7,Semester 1,Mathematics & Statistics,Stable
+KGL1373,Engineering,3.67,82,96,92.7,100.0,Semester 2,Data Structures,Stable
+KGL1374,Engineering,2.69,59,73,63.9,65.5,Semester 1,Introduction to Programming,Stable
+KGL1375,Engineering,1.73,46,41,50.7,34.5,Semester 2,Machine Learning,Stable
+KGL1376,Engineering,3.36,80,82,83.7,88.6,Semester 1,Mathematics & Statistics,Stable
+KGL1377,Engineering,3.73,85,100,98.3,97.9,Semester 2,Machine Learning,Stable
+KGL1378,Engineering,3.08,71,77,74.8,86.4,Semester 1,Introduction to Programming,Stable
+KGL1379,Engineering,2.56,66,62,70.7,62.7,Semester 2,Web Development,Stable
+KGL1380,Engineering,3.32,80,83,89.5,85.6,Semester 1,Database Systems,Scholarship
+KGL1381,Engineering,3.76,87,95,93.5,100.0,Semester 2,Machine Learning,Stable
+KGL1382,Engineering,3.08,79,71,77.1,82.9,Semester 1,Mathematics & Statistics,Stable
+KGL1383,Engineering,1.76,38,45,41.2,64.1,Semester 2,Web Development,Scholarship
+KGL1384,Engineering,1.65,38,43,51.3,31.5,Semester 1,Mathematics & Statistics,Stable
+KGL1385,Engineering,2.91,67,75,68.0,64.7,Semester 2,Machine Learning,Stable
+KGL1386,Engineering,2.76,64,70,71.2,63.6,Semester 1,Introduction to Programming,Scholarship
+KGL1387,Engineering,2.69,57,67,68.4,78.7,Semester 2,Data Structures,Scholarship
+KGL1388,Engineering,2.53,62,64,57.9,62.7,Semester 1,Mathematics & Statistics,Stable
+KGL1389,Engineering,2.91,73,75,80.1,74.7,Semester 2,Machine Learning,Stable
+KGL1390,Engineering,2.65,73,59,64.6,73.7,Semester 1,Introduction to Programming,Under Review
+KGL1391,Engineering,2.96,77,77,62.2,58.7,Semester 2,Data Structures,Under Review
+KGL1392,Engineering,2.8,76,67,70.2,64.2,Semester 1,Database Systems,Stable
+KGL1393,Engineering,2.23,57,56,57.5,52.6,Semester 2,Machine Learning,Stable
+KGL1394,Engineering,2.88,65,77,77.8,65.5,Semester 1,Database Systems,Stable
+KGL1395,Engineering,1.79,48,41,52.9,55.0,Semester 2,Machine Learning,Stable
+KGL1396,Engineering,2.4,50,63,56.8,64.9,Semester 1,Database Systems,Stable
+KGL1397,Engineering,3.59,85,95,84.8,83.9,Semester 2,Data Structures,Stable
+KGL1398,Engineering,2.59,74,57,62.5,64.5,Semester 1,Introduction to Programming,Stable
+KGL1399,Engineering,2.31,60,54,52.7,61.0,Semester 2,Web Development,Stable
+KGL1400,Engineering,2.4,59,67,66.4,55.3,Semester 1,Mathematics & Statistics,Scholarship
+KGL1401,Engineering,1.85,53,43,57.4,39.9,Semester 2,Machine Learning,Stable
+KGL1402,Engineering,2.25,49,55,55.6,70.2,Semester 1,Introduction to Programming,Stable
+KGL1403,Engineering,3.83,88,100,90.1,95.4,Semester 2,Data Structures,Stable
+KGL1404,Engineering,2.33,54,62,62.8,59.0,Semester 1,Mathematics & Statistics,Scholarship
+KGL1405,Engineering,2.72,63,68,81.1,74.5,Semester 2,Data Structures,Under Review
+KGL1406,Engineering,2.57,65,63,60.7,72.2,Semester 1,Introduction to Programming,Stable
+KGL1407,Engineering,3.19,82,77,83.6,72.8,Semester 2,Data Structures,Stable
+KGL1408,Engineering,2.2,52,56,56.4,61.9,Semester 1,Database Systems,Stable
+KGL1409,Engineering,3.41,87,85,81.7,90.1,Semester 2,Machine Learning,Stable
+KGL1410,Engineering,2.87,70,74,63.4,77.1,Semester 1,Database Systems,Stable
+KGL1411,Engineering,3.27,84,78,79.4,89.5,Semester 2,Web Development,Stable
+KGL1412,Engineering,2.63,71,60,69.2,67.3,Semester 1,Database Systems,Scholarship
+KGL1413,Engineering,2.63,63,67,56.1,74.5,Semester 2,Data Structures,Stable
+KGL1414,Engineering,2.69,51,79,73.9,75.4,Semester 1,Database Systems,Under Review
+KGL1415,Engineering,3.01,84,69,75.2,68.9,Semester 2,Web Development,Stable
+KGL1416,Engineering,2.84,71,68,70.4,74.4,Semester 1,Mathematics & Statistics,Scholarship
+KGL1417,Engineering,2.85,74,67,59.9,69.4,Semester 2,Machine Learning,Scholarship
+KGL1418,Engineering,2.52,68,62,61.2,58.3,Semester 1,Database Systems,Scholarship
+KGL1419,Engineering,2.23,57,54,56.5,62.0,Semester 2,Machine Learning,Stable
+KGL1420,Engineering,3.57,82,93,91.8,94.7,Semester 1,Mathematics & Statistics,Stable
+KGL1421,Engineering,2.39,57,64,62.7,53.8,Semester 2,Data Structures,Stable
+KGL1422,Engineering,2.29,47,67,54.9,68.7,Semester 1,Mathematics & Statistics,Scholarship
+KGL1423,Engineering,2.99,59,80,69.5,81.7,Semester 2,Data Structures,Scholarship
+KGL1424,Engineering,1.52,41,34,41.6,39.2,Semester 1,Mathematics & Statistics,Stable
+KGL1425,Engineering,2.55,62,62,62.8,68.3,Semester 2,Data Structures,Scholarship
+KGL1426,Engineering,3.4,86,86,92.1,83.8,Semester 1,Database Systems,Scholarship
+KGL1427,Engineering,2.73,69,65,68.3,70.0,Semester 2,Web Development,Stable
+KGL1428,Engineering,2.36,65,53,46.4,52.7,Semester 1,Mathematics & Statistics,Scholarship
+KGL1429,Engineering,2.47,68,54,66.8,65.0,Semester 2,Web Development,Stable
+KGL1430,Engineering,2.52,64,59,61.3,56.6,Semester 1,Mathematics & Statistics,Stable
+KGL1431,Engineering,2.71,61,70,59.5,80.4,Semester 2,Machine Learning,Stable
+KGL1432,Engineering,2.29,61,55,68.4,59.7,Semester 1,Mathematics & Statistics,Scholarship
+KGL1433,Engineering,2.08,47,50,48.0,52.2,Semester 2,Web Development,Stable
+KGL1434,Engineering,2.73,73,66,66.8,72.0,Semester 1,Introduction to Programming,Scholarship
+KGL1435,Engineering,2.01,50,53,60.3,53.0,Semester 2,Data Structures,Stable
+KGL1436,Engineering,2.76,75,64,66.4,68.0,Semester 1,Mathematics & Statistics,Under Review
+KGL1437,Engineering,2.85,75,73,68.0,59.3,Semester 2,Web Development,Under Review
+KGL1438,Engineering,2.36,70,51,58.8,47.2,Semester 1,Database Systems,Stable
+KGL1439,Engineering,3.45,89,82,81.5,91.2,Semester 2,Machine Learning,Stable
+KGL1440,Engineering,3.03,67,79,70.1,78.9,Semester 1,Database Systems,Scholarship
+KGL1441,Engineering,3.19,78,80,76.4,80.2,Semester 2,Machine Learning,Stable
+KGL1442,Engineering,2.68,59,69,63.5,65.9,Semester 1,Introduction to Programming,Stable
+KGL1443,Engineering,3.09,73,76,75.2,76.1,Semester 2,Web Development,Scholarship
+KGL1444,Engineering,3.12,79,73,74.6,76.3,Semester 1,Mathematics & Statistics,Scholarship
+KGL1445,Engineering,2.91,67,77,73.8,71.3,Semester 2,Web Development,Stable
+KGL1446,Engineering,2.6,69,60,62.3,75.8,Semester 1,Mathematics & Statistics,Stable
+KGL1447,Engineering,3.29,86,80,84.4,82.8,Semester 2,Web Development,Scholarship
+KGL1448,Engineering,1.8,47,42,40.0,52.8,Semester 1,Introduction to Programming,Stable
+KGL1449,Engineering,3.01,81,72,65.3,69.5,Semester 2,Data Structures,Stable
+KGL1450,Engineering,3.12,64,85,84.7,84.7,Semester 1,Database Systems,Scholarship
+KGL1451,Engineering,3.85,100,97,91.6,97.5,Semester 2,Data Structures,Stable
+KGL1452,Engineering,2.88,65,74,65.7,83.8,Semester 1,Database Systems,Under Review
+KGL1453,Engineering,2.29,65,49,53.5,54.1,Semester 2,Data Structures,Stable
+KGL1454,Engineering,2.35,53,62,51.7,63.8,Semester 1,Database Systems,Stable
+KGL1455,Engineering,1.87,37,47,46.4,46.9,Semester 2,Machine Learning,Under Review
+KGL1456,Engineering,3.43,79,89,92.4,93.9,Semester 1,Database Systems,Stable
+KGL1457,Engineering,2.07,53,48,54.0,56.7,Semester 2,Web Development,Stable
+KGL1458,Engineering,4.0,100,100,99.5,100.0,Semester 1,Introduction to Programming,Under Review
+KGL1459,Engineering,2.73,72,68,67.9,68.3,Semester 2,Data Structures,Under Review
+KGL1460,Engineering,2.21,53,55,63.8,63.1,Semester 1,Mathematics & Statistics,Scholarship
+KGL1461,Engineering,2.04,54,45,42.1,53.5,Semester 2,Data Structures,Stable
+KGL1462,Engineering,2.89,71,76,69.3,74.1,Semester 1,Introduction to Programming,Stable
+KGL1463,Engineering,3.44,77,91,79.5,86.9,Semester 2,Data Structures,Scholarship
+KGL1464,Engineering,2.6,75,62,71.5,53.8,Semester 1,Mathematics & Statistics,Stable
+KGL1465,Engineering,3.49,84,91,94.7,92.7,Semester 2,Data Structures,Stable
+KGL1466,Engineering,1.27,26,38,40.0,31.3,Semester 1,Introduction to Programming,Stable
+KGL1467,Engineering,2.72,72,65,66.5,69.4,Semester 2,Machine Learning,Stable
+KGL1468,Engineering,3.33,77,85,84.0,81.8,Semester 1,Mathematics & Statistics,Stable
+KGL1469,Engineering,3.21,91,76,85.2,80.3,Semester 2,Data Structures,Stable
+KGL1470,Engineering,3.44,83,90,88.2,90.4,Semester 1,Introduction to Programming,Under Review
+KGL1471,Engineering,2.75,63,74,65.8,69.2,Semester 2,Machine Learning,Scholarship
+KGL1472,Engineering,3.17,68,84,75.8,87.2,Semester 1,Mathematics & Statistics,Stable
+KGL1473,Engineering,2.49,59,61,67.7,70.9,Semester 2,Data Structures,Stable
+KGL1474,Engineering,3.61,90,91,94.2,88.2,Semester 1,Database Systems,Stable
+KGL1475,Engineering,3.07,71,83,78.0,78.1,Semester 2,Data Structures,Under Review
+KGL1476,Engineering,2.72,76,66,72.1,52.1,Semester 1,Mathematics & Statistics,Stable
+KGL1477,Engineering,2.93,80,72,78.9,59.5,Semester 2,Web Development,Stable
+KGL1478,Engineering,2.52,55,70,64.1,56.9,Semester 1,Database Systems,Stable
+KGL1479,Engineering,2.85,76,67,72.5,66.3,Semester 2,Web Development,Stable
+KGL1480,Engineering,2.83,73,68,74.7,66.4,Semester 1,Mathematics & Statistics,Stable
+KGL1481,Engineering,2.23,52,56,52.1,54.6,Semester 2,Data Structures,Stable
+KGL1482,Engineering,2.63,68,61,64.4,65.4,Semester 1,Database Systems,Stable
+KGL1483,Engineering,2.09,59,46,47.3,50.3,Semester 2,Machine Learning,Stable
+KGL1484,Engineering,2.07,49,54,56.9,58.0,Semester 1,Mathematics & Statistics,Stable
+KGL1485,Engineering,2.87,70,71,79.2,75.7,Semester 2,Web Development,Stable
+KGL1486,Engineering,2.19,61,56,56.4,52.0,Semester 1,Mathematics & Statistics,Stable
+KGL1487,Engineering,2.79,60,74,71.3,64.1,Semester 2,Web Development,Under Review
+KGL1488,Engineering,2.32,64,57,63.0,54.2,Semester 1,Database Systems,Stable
+KGL1489,Engineering,3.24,79,82,74.0,84.7,Semester 2,Data Structures,Stable
+KGL1490,Engineering,3.01,65,76,75.3,73.7,Semester 1,Database Systems,Stable
+KGL1491,Engineering,2.64,64,70,61.9,60.7,Semester 2,Web Development,Stable
+KGL1492,Engineering,3.41,83,90,83.8,77.0,Semester 1,Introduction to Programming,Stable
+KGL1493,Engineering,3.45,81,90,85.9,82.4,Semester 2,Machine Learning,Scholarship
+KGL1494,Engineering,2.48,54,68,59.1,54.2,Semester 1,Database Systems,Stable
+KGL1495,Engineering,2.64,68,66,65.2,61.2,Semester 2,Machine Learning,Scholarship
+KGL1496,Engineering,2.05,54,52,55.5,50.1,Semester 1,Mathematics & Statistics,Stable
+KGL1497,Engineering,2.84,59,76,62.2,83.4,Semester 2,Machine Learning,Scholarship
+KGL1498,Engineering,2.71,66,68,68.4,71.6,Semester 1,Introduction to Programming,Under Review
+KGL1499,Engineering,2.92,76,72,73.9,75.0,Semester 2,Machine Learning,Under Review
+KGL1500,Engineering,3.13,74,82,72.5,75.0,Semester 1,Mathematics & Statistics,Stable
+KGL1501,Engineering,3.64,94,92,97.6,89.1,Semester 2,Data Structures,Stable
+KGL1502,Engineering,2.37,63,54,57.8,64.7,Semester 1,Introduction to Programming,Stable
+KGL1503,Engineering,3.68,95,92,92.7,96.0,Semester 2,Web Development,Scholarship
+KGL1504,Engineering,2.04,40,54,53.8,54.9,Semester 1,Mathematics & Statistics,Stable
+KGL1505,Engineering,3.25,82,80,86.9,77.3,Semester 2,Web Development,Stable
+KGL1506,Engineering,2.72,68,66,66.7,68.1,Semester 1,Introduction to Programming,Scholarship
+KGL1507,Engineering,2.24,55,54,58.8,58.6,Semester 2,Machine Learning,Stable
+KGL1508,Engineering,3.12,79,77,77.6,83.3,Semester 1,Database Systems,Stable
+KGL1509,Engineering,3.53,86,87,82.6,86.0,Semester 2,Web Development,Stable
+KGL1510,Engineering,2.93,76,73,71.5,64.3,Semester 1,Introduction to Programming,Scholarship
+KGL1511,Engineering,2.09,64,43,46.9,52.5,Semester 2,Data Structures,Stable
+KGL1512,Engineering,2.17,62,52,56.6,54.6,Semester 1,Introduction to Programming,Stable
+KGL1513,Engineering,2.36,54,62,49.0,58.3,Semester 2,Machine Learning,Scholarship
+KGL1514,Engineering,3.57,77,94,93.1,97.4,Semester 1,Introduction to Programming,Stable
+KGL1515,Engineering,3.31,76,85,85.9,83.1,Semester 2,Data Structures,Stable
+KGL1516,Engineering,3.29,74,84,79.2,81.7,Semester 1,Introduction to Programming,Stable
+KGL1517,Engineering,2.84,66,73,73.0,79.4,Semester 2,Data Structures,Scholarship
+KGL1518,Engineering,2.96,66,78,79.7,86.2,Semester 1,Database Systems,Stable
+KGL1519,Engineering,2.99,67,79,76.4,78.6,Semester 2,Machine Learning,Stable
+KGL1520,Engineering,2.29,71,52,62.0,50.2,Semester 1,Introduction to Programming,Stable
+KGL1521,Engineering,3.48,91,84,85.5,84.5,Semester 2,Machine Learning,Stable
+KGL1522,Engineering,2.45,69,57,57.2,47.1,Semester 1,Introduction to Programming,Stable
+KGL1523,Engineering,2.17,54,50,54.9,66.9,Semester 2,Machine Learning,Stable
+KGL1524,Engineering,2.05,53,49,54.5,51.2,Semester 1,Database Systems,Stable
+KGL1525,Engineering,2.49,68,59,67.4,53.1,Semester 2,Machine Learning,Stable
+KGL1526,Engineering,2.36,56,60,69.2,57.6,Semester 1,Introduction to Programming,Stable
+KGL1527,Engineering,1.76,36,43,47.4,52.8,Semester 2,Data Structures,Stable
+KGL1528,Engineering,1.56,29,47,40.0,46.6,Semester 1,Database Systems,Scholarship
+KGL1529,Engineering,2.75,62,70,71.6,75.1,Semester 2,Machine Learning,Stable
+KGL1530,Engineering,2.77,68,73,70.0,75.4,Semester 1,Database Systems,Stable
+KGL1531,Engineering,2.05,47,53,58.0,56.8,Semester 2,Machine Learning,Stable
+KGL1532,Engineering,2.41,62,58,58.9,55.8,Semester 1,Introduction to Programming,Stable
+KGL1533,Engineering,3.48,79,94,93.6,90.4,Semester 2,Data Structures,Stable
+KGL1534,Engineering,2.8,73,68,63.3,70.2,Semester 1,Mathematics & Statistics,Stable
+KGL1535,Engineering,3.09,66,83,79.3,79.5,Semester 2,Machine Learning,Stable
+KGL1536,Engineering,2.25,51,58,54.8,47.5,Semester 1,Mathematics & Statistics,Scholarship
+KGL1537,Engineering,2.39,51,62,57.7,57.4,Semester 2,Web Development,Stable
+KGL1538,Engineering,2.96,85,71,79.0,63.8,Semester 1,Database Systems,Stable
+KGL1539,Engineering,3.67,97,86,92.2,94.4,Semester 2,Web Development,Scholarship
+KGL1540,Engineering,2.83,75,68,72.0,65.5,Semester 1,Database Systems,Stable
+KGL1541,Engineering,3.21,79,80,78.7,85.8,Semester 2,Web Development,Stable
+KGL1542,Engineering,3.16,81,79,81.5,76.6,Semester 1,Database Systems,Stable
+KGL1543,Engineering,3.55,82,89,91.8,98.4,Semester 2,Machine Learning,Scholarship
+KGL1544,Engineering,2.57,64,66,67.7,56.7,Semester 1,Mathematics & Statistics,Under Review
+KGL1545,Engineering,3.21,78,80,78.6,81.6,Semester 2,Machine Learning,Stable
+KGL1546,Engineering,3.85,92,97,100.0,95.4,Semester 1,Mathematics & Statistics,Under Review
+KGL1547,Engineering,2.71,72,64,69.2,59.8,Semester 2,Data Structures,Stable
+KGL1548,Engineering,2.57,62,64,63.6,69.4,Semester 1,Mathematics & Statistics,Stable
+KGL1549,Engineering,2.93,79,69,78.0,76.9,Semester 2,Data Structures,Stable
+KGL1550,Engineering,2.93,79,65,69.5,79.5,Semester 1,Mathematics & Statistics,Stable
+KGL1551,Engineering,3.53,87,88,85.1,96.6,Semester 2,Web Development,Scholarship
+KGL1552,Engineering,1.84,40,50,40.0,63.9,Semester 1,Database Systems,Stable
+KGL1553,Engineering,2.71,77,64,71.7,60.7,Semester 2,Machine Learning,Under Review
+KGL1554,Engineering,1.84,53,40,44.4,50.2,Semester 1,Database Systems,Stable
+KGL1555,Engineering,1.39,32,33,40.0,38.2,Semester 2,Web Development,Stable
+KGL1556,Engineering,2.75,55,79,65.0,79.8,Semester 1,Mathematics & Statistics,Stable
+KGL1557,Engineering,2.59,61,66,64.0,71.1,Semester 2,Machine Learning,Stable
+KGL1558,Engineering,2.57,53,70,66.3,70.5,Semester 1,Database Systems,Stable
+KGL1559,Engineering,2.68,73,62,57.0,65.4,Semester 2,Data Structures,Stable
+KGL1560,Engineering,3.04,74,79,68.4,76.9,Semester 1,Database Systems,Stable
+KGL1561,Engineering,2.81,63,74,75.8,69.2,Semester 2,Data Structures,Stable
+KGL1562,Engineering,3.71,96,92,100.0,90.0,Semester 1,Database Systems,Scholarship
+KGL1563,Engineering,2.97,63,80,73.1,88.8,Semester 2,Web Development,Under Review
+KGL1564,Engineering,1.93,48,46,51.4,53.2,Semester 1,Introduction to Programming,Stable
+KGL1565,Engineering,1.81,48,45,48.8,37.9,Semester 2,Data Structures,Stable
+KGL1566,Engineering,3.89,92,100,95.4,98.8,Semester 1,Introduction to Programming,Under Review
+KGL1567,Engineering,2.8,61,78,70.7,64.1,Semester 2,Web Development,Stable
+KGL1568,Engineering,2.11,63,47,46.9,59.8,Semester 1,Introduction to Programming,Stable
+KGL1569,Engineering,2.71,68,67,59.4,62.5,Semester 2,Web Development,Stable
+KGL1570,Engineering,2.88,71,70,65.8,75.6,Semester 1,Mathematics & Statistics,Stable
+KGL1571,Engineering,3.72,91,92,88.0,91.4,Semester 2,Machine Learning,Stable
+KGL1572,Engineering,2.28,53,56,54.1,55.9,Semester 1,Mathematics & Statistics,Stable
+KGL1573,Engineering,2.4,50,64,56.5,73.7,Semester 2,Machine Learning,Stable
+KGL1574,Engineering,3.01,74,71,77.6,70.2,Semester 1,Database Systems,Scholarship
+KGL1575,Engineering,1.97,40,53,50.4,60.2,Semester 2,Data Structures,Stable
+KGL1576,Engineering,2.19,61,52,57.3,53.5,Semester 1,Introduction to Programming,Under Review
+KGL1577,Engineering,3.48,81,89,80.7,88.6,Semester 2,Data Structures,Stable
+KGL1578,Engineering,2.16,48,58,60.9,53.0,Semester 1,Database Systems,Stable
+KGL1579,Engineering,2.43,53,68,60.9,48.3,Semester 2,Machine Learning,Scholarship
+KGL1580,Engineering,3.65,81,96,91.4,100.0,Semester 1,Database Systems,Under Review
+KGL1581,Engineering,3.15,77,80,79.3,74.0,Semester 2,Machine Learning,Under Review
+KGL1582,Engineering,2.85,63,78,67.9,72.8,Semester 1,Database Systems,Stable
+KGL1583,Engineering,3.04,73,80,84.2,86.0,Semester 2,Machine Learning,Under Review
+KGL1584,Engineering,2.97,69,77,73.8,76.5,Semester 1,Introduction to Programming,Scholarship
+KGL1585,Engineering,2.89,65,76,66.6,85.9,Semester 2,Machine Learning,Stable
+KGL1586,Engineering,2.68,55,73,71.5,76.4,Semester 1,Database Systems,Stable
+KGL1587,Engineering,2.25,44,62,64.0,65.3,Semester 2,Web Development,Stable
+KGL1588,Engineering,2.44,54,65,71.9,65.1,Semester 1,Introduction to Programming,Stable
+KGL1589,Engineering,2.39,48,65,56.3,67.3,Semester 2,Web Development,Scholarship
+KGL1590,Engineering,2.25,58,54,56.8,53.8,Semester 1,Database Systems,Stable
+KGL1591,Engineering,2.44,71,50,62.0,62.5,Semester 2,Web Development,Under Review
+KGL1592,Engineering,2.67,68,64,67.0,66.9,Semester 1,Mathematics & Statistics,Stable
+KGL1593,Engineering,2.97,74,73,75.2,70.0,Semester 2,Web Development,Scholarship
+KGL1594,Engineering,3.88,92,99,99.9,100.0,Semester 1,Mathematics & Statistics,Stable
+KGL1595,Engineering,2.76,56,72,65.9,81.9,Semester 2,Web Development,Stable
+KGL1596,Engineering,0.92,30,15,40.0,30.0,Semester 1,Mathematics & Statistics,Scholarship
+KGL1597,Engineering,2.07,53,48,56.8,62.2,Semester 2,Machine Learning,Stable
+KGL1598,Engineering,2.92,69,73,80.0,71.4,Semester 1,Introduction to Programming,Stable
+KGL1599,Engineering,3.04,65,81,75.8,82.6,Semester 2,Machine Learning,Under Review
+KGL1600,Engineering,2.36,54,63,66.5,57.9,Semester 1,Database Systems,Scholarship
+KGL1601,Engineering,1.17,29,30,40.0,30.0,Semester 2,Web Development,Scholarship
+KGL1602,Engineering,3.12,76,80,81.5,70.7,Semester 1,Introduction to Programming,Stable
+KGL1603,Engineering,2.24,60,51,52.8,60.0,Semester 2,Data Structures,Stable
+KGL1604,Engineering,3.51,84,90,88.8,86.7,Semester 1,Database Systems,Stable
+KGL1605,Engineering,2.79,75,62,80.7,76.5,Semester 2,Machine Learning,Scholarship
+KGL1606,Engineering,3.35,85,82,82.6,80.8,Semester 1,Database Systems,Stable
+KGL1607,Engineering,2.03,40,54,46.8,57.4,Semester 2,Web Development,Stable
+KGL1608,Engineering,2.49,61,62,61.5,61.1,Semester 1,Mathematics & Statistics,Stable
+KGL1609,Engineering,2.48,58,65,63.6,59.0,Semester 2,Data Structures,Stable
+KGL1610,Engineering,2.56,69,63,65.1,65.7,Semester 1,Mathematics & Statistics,Stable
+KGL1611,Engineering,2.44,58,66,59.3,56.3,Semester 2,Web Development,Stable
+KGL1612,Engineering,3.67,94,91,91.0,93.5,Semester 1,Database Systems,Stable
+KGL1613,Engineering,2.88,65,74,77.3,81.7,Semester 2,Data Structures,Scholarship
+KGL1614,Engineering,3.57,82,93,90.5,87.5,Semester 1,Introduction to Programming,Stable
+KGL1615,Engineering,2.67,60,72,73.3,64.0,Semester 2,Machine Learning,Stable
+KGL1616,Engineering,1.6,37,38,45.4,48.9,Semester 1,Database Systems,Stable
+KGL1617,Engineering,3.32,88,83,84.6,77.3,Semester 2,Data Structures,Stable
+KGL1618,Engineering,3.47,95,84,88.7,83.6,Semester 1,Introduction to Programming,Stable
+KGL1619,Engineering,2.75,65,68,63.2,75.7,Semester 2,Web Development,Stable
+KGL1620,Engineering,2.0,35,54,52.7,53.2,Semester 1,Introduction to Programming,Scholarship
+KGL1621,Engineering,2.41,62,56,59.9,60.0,Semester 2,Data Structures,Stable
+KGL1622,Engineering,2.15,58,52,53.4,49.3,Semester 1,Introduction to Programming,Stable
+KGL1623,Engineering,3.76,100,86,85.9,95.2,Semester 2,Web Development,Under Review
+KGL1624,Engineering,2.41,61,62,58.0,54.1,Semester 1,Database Systems,Under Review
+KGL1625,Engineering,3.95,100,99,98.6,98.5,Semester 2,Machine Learning,Scholarship
+KGL1626,Engineering,2.69,69,63,57.0,70.5,Semester 1,Mathematics & Statistics,Stable
+KGL1627,Engineering,2.07,61,46,48.6,46.8,Semester 2,Web Development,Scholarship
+KGL1628,Engineering,2.03,49,46,44.0,64.0,Semester 1,Database Systems,Under Review
+KGL1629,Engineering,2.0,44,55,53.5,53.9,Semester 2,Machine Learning,Stable
+KGL1630,Engineering,2.68,67,70,71.3,64.3,Semester 1,Database Systems,Under Review
+KGL1631,Engineering,2.72,79,65,68.6,55.2,Semester 2,Machine Learning,Stable
+KGL1632,Engineering,2.95,66,81,77.9,68.9,Semester 1,Database Systems,Stable
+KGL1633,Engineering,3.31,75,85,87.8,87.6,Semester 2,Machine Learning,Scholarship
+KGL1634,Engineering,3.31,84,80,81.1,79.4,Semester 1,Introduction to Programming,Scholarship
+KGL1635,Engineering,2.79,71,64,66.6,73.3,Semester 2,Data Structures,Stable
+KGL1636,Engineering,3.04,67,81,68.2,88.0,Semester 1,Mathematics & Statistics,Scholarship
+KGL1637,Engineering,3.47,80,88,87.5,85.6,Semester 2,Web Development,Stable
+KGL1638,Engineering,3.15,86,74,84.7,76.4,Semester 1,Introduction to Programming,Stable
+KGL1639,Engineering,2.97,76,73,68.4,70.1,Semester 2,Web Development,Stable
+KGL1640,Engineering,1.92,41,51,51.1,44.3,Semester 1,Introduction to Programming,Stable
+KGL1641,Engineering,3.36,74,90,85.9,94.6,Semester 2,Machine Learning,Stable
+KGL1642,Engineering,3.09,72,79,77.4,88.5,Semester 1,Database Systems,Stable
+KGL1643,Engineering,3.11,74,80,69.9,72.8,Semester 2,Data Structures,Scholarship
+KGL1644,Engineering,2.6,70,60,58.8,61.2,Semester 1,Introduction to Programming,Scholarship
+KGL1645,Engineering,3.03,65,81,75.4,83.1,Semester 2,Data Structures,Stable
+KGL1646,Engineering,2.59,59,65,67.8,65.7,Semester 1,Mathematics & Statistics,Stable
+KGL1647,Engineering,2.59,64,68,69.1,62.4,Semester 2,Data Structures,Stable
+KGL1648,Engineering,2.11,50,55,52.4,49.1,Semester 1,Mathematics & Statistics,Scholarship
+KGL1649,Engineering,3.05,69,81,87.2,86.4,Semester 2,Data Structures,Stable
+KGL1650,Engineering,2.13,51,53,64.3,54.5,Semester 1,Database Systems,Stable
+KGL1651,Engineering,2.99,68,76,76.2,72.6,Semester 2,Web Development,Scholarship
+KGL1652,Engineering,3.59,85,98,100.0,90.4,Semester 1,Introduction to Programming,Stable
+KGL1653,Engineering,2.79,65,74,66.3,72.8,Semester 2,Data Structures,Stable
+KGL1654,Engineering,3.08,73,79,70.0,79.2,Semester 1,Introduction to Programming,Stable
+KGL1655,Engineering,2.61,62,67,62.1,66.5,Semester 2,Web Development,Stable
+KGL1656,Engineering,2.77,77,64,73.6,66.6,Semester 1,Mathematics & Statistics,Scholarship
+KGL1657,Engineering,2.61,69,61,72.7,70.6,Semester 2,Data Structures,Stable
+KGL1658,Engineering,2.15,43,58,52.7,62.6,Semester 1,Introduction to Programming,Scholarship
+KGL1659,Engineering,3.49,90,85,91.5,90.0,Semester 2,Machine Learning,Stable
+KGL1660,Engineering,2.99,74,73,76.7,73.1,Semester 1,Introduction to Programming,Stable
+KGL1661,Engineering,2.69,73,63,68.0,64.0,Semester 2,Machine Learning,Stable
+KGL1662,Engineering,2.6,55,69,67.1,67.4,Semester 1,Database Systems,Scholarship
+KGL1663,Engineering,2.68,65,67,66.3,66.5,Semester 2,Machine Learning,Stable
+KGL1664,Engineering,2.75,80,63,72.3,69.8,Semester 1,Introduction to Programming,Stable
+KGL1665,Engineering,2.27,50,60,58.8,62.9,Semester 2,Machine Learning,Scholarship
+KGL1666,Engineering,2.76,63,71,73.8,70.3,Semester 1,Database Systems,Stable
+KGL1667,Engineering,3.32,77,87,83.5,89.3,Semester 2,Data Structures,Under Review
+KGL1668,Engineering,2.77,73,61,69.4,79.5,Semester 1,Mathematics & Statistics,Stable
+KGL1669,Engineering,3.07,81,77,79.6,63.7,Semester 2,Web Development,Stable
+KGL1670,Engineering,2.8,66,68,66.8,79.4,Semester 1,Mathematics & Statistics,Scholarship
+KGL1671,Engineering,2.12,52,50,59.7,57.5,Semester 2,Machine Learning,Scholarship
+KGL1672,Engineering,2.97,69,76,73.5,79.7,Semester 1,Mathematics & Statistics,Stable
+KGL1673,Engineering,3.11,65,84,67.8,85.1,Semester 2,Machine Learning,Stable
+KGL1674,Engineering,2.99,69,78,68.4,86.8,Semester 1,Mathematics & Statistics,Stable
+KGL1675,Engineering,2.4,50,66,57.2,65.6,Semester 2,Data Structures,Scholarship
+KGL1676,Engineering,3.03,73,76,77.8,77.6,Semester 1,Introduction to Programming,Stable
+KGL1677,Engineering,3.04,70,76,76.0,76.1,Semester 2,Machine Learning,Stable
+KGL1678,Engineering,3.12,81,78,78.2,90.3,Semester 1,Database Systems,Scholarship
+KGL1679,Engineering,2.45,63,60,61.8,51.8,Semester 2,Web Development,Stable
+KGL1680,Engineering,2.84,67,74,59.2,72.3,Semester 1,Database Systems,Stable
+KGL1681,Engineering,2.51,60,60,57.6,68.7,Semester 2,Machine Learning,Scholarship
+KGL1682,Engineering,2.28,62,54,50.4,58.8,Semester 1,Database Systems,Stable
+KGL1683,Engineering,1.51,29,44,41.9,37.6,Semester 2,Web Development,Stable
+KGL1684,Engineering,2.61,62,68,68.9,68.2,Semester 1,Database Systems,Stable
+KGL1685,Engineering,3.91,94,100,94.5,98.1,Semester 2,Data Structures,Stable
+KGL1686,Engineering,3.04,85,68,69.8,71.1,Semester 1,Introduction to Programming,Stable
+KGL1687,Engineering,3.04,77,73,79.0,71.0,Semester 2,Machine Learning,Stable
+KGL1688,Engineering,2.07,53,44,51.5,56.6,Semester 1,Mathematics & Statistics,Stable
+KGL1689,Engineering,3.55,93,83,86.8,81.9,Semester 2,Machine Learning,Stable
+KGL1690,Engineering,2.07,49,53,59.2,47.3,Semester 1,Introduction to Programming,Stable
+KGL1691,Engineering,3.03,73,78,81.0,76.1,Semester 2,Machine Learning,Stable
+KGL1692,Engineering,2.95,66,81,75.6,66.4,Semester 1,Introduction to Programming,Stable
+KGL1693,Engineering,3.03,77,73,73.8,74.9,Semester 2,Machine Learning,Stable
+KGL1694,Engineering,2.24,49,56,56.0,64.5,Semester 1,Database Systems,Stable
+KGL1695,Engineering,3.39,79,86,80.4,80.4,Semester 2,Machine Learning,Scholarship
+KGL1696,Engineering,3.29,75,90,74.7,85.4,Semester 1,Introduction to Programming,Stable
+KGL1697,Engineering,2.68,59,70,61.2,78.4,Semester 2,Machine Learning,Stable
+KGL1698,Engineering,2.85,57,79,65.3,83.0,Semester 1,Mathematics & Statistics,Stable
+KGL1699,Engineering,2.55,66,59,62.8,70.1,Semester 2,Machine Learning,Stable
+KGL1700,Engineering,3.23,79,82,82.7,85.7,Semester 1,Mathematics & Statistics,Scholarship
+KGL1701,Engineering,2.61,57,72,66.2,67.7,Semester 2,Data Structures,Stable
+KGL1702,Engineering,3.44,87,87,79.1,77.4,Semester 1,Database Systems,Stable
+KGL1703,Engineering,2.59,63,67,61.9,61.3,Semester 2,Data Structures,Stable
+KGL1704,Engineering,2.48,59,64,64.6,69.6,Semester 1,Mathematics & Statistics,Stable
+KGL1705,Engineering,2.65,62,65,68.4,75.3,Semester 2,Machine Learning,Stable
+KGL1706,Engineering,1.55,46,36,42.4,30.3,Semester 1,Database Systems,Stable
+KGL1707,Engineering,2.36,66,52,55.2,55.9,Semester 2,Web Development,Stable
+KGL1708,Engineering,3.4,89,79,88.7,89.7,Semester 1,Database Systems,Stable
+KGL1709,Engineering,2.15,42,58,56.9,63.3,Semester 2,Data Structures,Stable
+KGL1710,Engineering,3.56,93,90,90.9,80.7,Semester 1,Database Systems,Stable
+KGL1711,Engineering,3.33,80,85,91.7,86.9,Semester 2,Web Development,Stable
+KGL1712,Engineering,3.96,98,99,100.0,100.0,Semester 1,Database Systems,Stable
+KGL1713,Engineering,3.28,81,84,83.6,89.9,Semester 2,Data Structures,Under Review
+KGL1714,Engineering,2.72,60,74,65.9,61.0,Semester 1,Introduction to Programming,Stable
+KGL1715,Engineering,3.43,76,87,87.5,93.7,Semester 2,Data Structures,Stable
+KGL1716,Engineering,2.97,73,72,77.7,86.8,Semester 1,Database Systems,Scholarship
+KGL1717,Engineering,3.88,96,99,87.4,92.9,Semester 2,Data Structures,Stable
+KGL1718,Engineering,3.01,76,74,77.6,81.6,Semester 1,Database Systems,Scholarship
+KGL1719,Engineering,3.25,91,80,81.7,70.6,Semester 2,Web Development,Under Review
+KGL1720,Engineering,2.72,62,70,68.7,72.3,Semester 1,Mathematics & Statistics,Scholarship
+KGL1721,Engineering,2.31,55,59,44.0,66.6,Semester 2,Data Structures,Stable
+KGL1722,Engineering,3.36,74,88,76.5,94.0,Semester 1,Introduction to Programming,Stable
+KGL1723,Engineering,1.87,50,42,47.9,42.0,Semester 2,Web Development,Scholarship
+KGL1724,Engineering,1.75,47,41,40.0,40.8,Semester 1,Mathematics & Statistics,Scholarship
+KGL1725,Engineering,3.01,81,71,68.7,76.4,Semester 2,Data Structures,Stable
+KGL1726,Engineering,2.89,65,77,80.5,75.9,Semester 1,Introduction to Programming,Stable
+KGL1727,Engineering,2.35,68,57,59.3,62.8,Semester 2,Machine Learning,Stable
+KGL1728,Engineering,3.32,73,84,81.2,89.6,Semester 1,Introduction to Programming,Stable
+KGL1729,Business,1.72,53,37,40.0,37.1,Semester 2,Machine Learning,Stable
+KGL1730,Business,3.0,68,80,67.0,80.6,Semester 1,Introduction to Programming,Stable
+KGL1731,Business,1.92,55,43,49.4,47.5,Semester 2,Data Structures,Under Review
+KGL1732,Business,3.6,87,94,83.3,95.6,Semester 1,Introduction to Programming,Stable
+KGL1733,Business,1.95,55,44,45.8,39.4,Semester 2,Machine Learning,Under Review
+KGL1734,Business,2.24,53,57,55.0,62.1,Semester 1,Introduction to Programming,Stable
+KGL1735,Business,2.44,67,59,60.4,58.2,Semester 2,Web Development,Stable
+KGL1736,Business,3.4,92,84,77.1,79.4,Semester 1,Introduction to Programming,Under Review
+KGL1737,Business,2.56,53,73,63.4,61.2,Semester 2,Data Structures,Under Review
+KGL1738,Business,3.0,81,73,70.1,72.2,Semester 1,Introduction to Programming,Stable
+KGL1739,Business,2.35,61,55,54.0,54.6,Semester 2,Data Structures,Stable
+KGL1740,Business,3.0,80,72,72.7,68.7,Semester 1,Database Systems,Stable
+KGL1741,Business,2.0,37,56,53.4,65.3,Semester 2,Machine Learning,Stable
+KGL1742,Business,3.29,81,82,90.1,79.4,Semester 1,Mathematics & Statistics,Under Review
+KGL1743,Business,2.72,59,72,64.7,73.4,Semester 2,Data Structures,Scholarship
+KGL1744,Business,2.09,55,47,51.9,59.1,Semester 1,Introduction to Programming,Stable
+KGL1745,Business,3.0,72,74,73.7,85.2,Semester 2,Machine Learning,Under Review
+KGL1746,Business,2.87,69,71,72.7,74.7,Semester 1,Mathematics & Statistics,Scholarship
+KGL1747,Business,2.68,69,68,59.0,69.5,Semester 2,Data Structures,Stable
+KGL1748,Business,2.25,50,59,60.8,59.8,Semester 1,Mathematics & Statistics,Stable
+KGL1749,Business,3.43,87,86,78.1,85.6,Semester 2,Machine Learning,Stable
+KGL1750,Business,2.77,71,68,62.7,67.6,Semester 1,Database Systems,Stable
+KGL1751,Business,2.73,68,65,66.5,78.7,Semester 2,Data Structures,Under Review
+KGL1752,Business,3.08,79,75,76.7,77.9,Semester 1,Mathematics & Statistics,Stable
+KGL1753,Business,3.36,77,85,83.3,94.0,Semester 2,Data Structures,Stable
+KGL1754,Business,2.21,58,53,54.7,47.1,Semester 1,Database Systems,Stable
+KGL1755,Business,3.61,84,92,84.4,90.3,Semester 2,Data Structures,Scholarship
+KGL1756,Business,2.2,55,52,50.3,61.1,Semester 1,Introduction to Programming,Scholarship
+KGL1757,Business,2.8,70,72,67.7,69.2,Semester 2,Machine Learning,Scholarship
+KGL1758,Business,2.35,52,65,59.4,68.3,Semester 1,Mathematics & Statistics,Stable
+KGL1759,Business,2.97,69,77,76.3,68.4,Semester 2,Data Structures,Stable
+KGL1760,Business,2.52,53,64,57.9,66.3,Semester 1,Database Systems,Stable
+KGL1761,Business,2.13,48,54,58.3,62.2,Semester 2,Web Development,Stable
+KGL1762,Business,3.27,78,86,79.0,72.0,Semester 1,Introduction to Programming,Scholarship
+KGL1763,Business,2.49,62,63,64.9,59.4,Semester 2,Data Structures,Stable
+KGL1764,Business,2.43,60,59,63.0,59.2,Semester 1,Introduction to Programming,Scholarship
+KGL1765,Business,2.91,74,72,70.5,72.1,Semester 2,Data Structures,Under Review
+KGL1766,Business,2.8,58,77,75.0,68.8,Semester 1,Mathematics & Statistics,Stable
+KGL1767,Business,2.64,76,60,69.0,67.7,Semester 2,Web Development,Scholarship
+KGL1768,Business,2.85,68,75,70.7,69.3,Semester 1,Introduction to Programming,Under Review
+KGL1769,Business,2.33,58,57,56.3,57.6,Semester 2,Machine Learning,Stable
+KGL1770,Business,1.99,52,49,47.4,37.0,Semester 1,Mathematics & Statistics,Stable
+KGL1771,Business,2.96,75,74,71.2,73.9,Semester 2,Web Development,Stable
+KGL1772,Business,2.55,52,72,58.7,71.2,Semester 1,Mathematics & Statistics,Scholarship
+KGL1773,Business,2.92,62,79,64.7,75.8,Semester 2,Data Structures,Scholarship
+KGL1774,Business,2.55,66,60,66.0,71.8,Semester 1,Database Systems,Under Review
+KGL1775,Business,2.16,49,55,53.4,64.3,Semester 2,Web Development,Stable
+KGL1776,Business,2.77,66,70,65.5,71.0,Semester 1,Mathematics & Statistics,Stable
+KGL1777,Business,1.63,35,43,43.8,50.6,Semester 2,Data Structures,Stable
+KGL1778,Business,3.11,72,82,81.6,82.4,Semester 1,Introduction to Programming,Under Review
+KGL1779,Business,3.48,94,82,93.0,85.4,Semester 2,Machine Learning,Stable
+KGL1780,Business,2.12,46,57,46.0,54.1,Semester 1,Database Systems,Stable
+KGL1781,Business,3.35,77,84,90.8,88.7,Semester 2,Web Development,Under Review
+KGL1782,Business,3.24,76,82,74.2,96.9,Semester 1,Mathematics & Statistics,Stable
+KGL1783,Business,2.31,52,62,53.5,61.8,Semester 2,Machine Learning,Stable
+KGL1784,Business,3.35,91,79,83.9,79.4,Semester 1,Introduction to Programming,Stable
+KGL1785,Business,1.69,32,44,40.0,43.4,Semester 2,Data Structures,Stable
+KGL1786,Business,3.04,72,77,75.9,82.6,Semester 1,Mathematics & Statistics,Stable
+KGL1787,Business,1.19,19,32,40.0,36.3,Semester 2,Data Structures,Scholarship
+KGL1788,Business,2.59,68,61,64.9,64.6,Semester 1,Mathematics & Statistics,Scholarship
+KGL1789,Business,2.37,52,61,62.0,64.4,Semester 2,Data Structures,Under Review
+KGL1790,Business,2.27,48,60,56.5,64.2,Semester 1,Mathematics & Statistics,Stable
+KGL1791,Business,2.61,60,70,62.7,63.8,Semester 2,Data Structures,Stable
+KGL1792,Business,2.79,66,69,71.3,75.4,Semester 1,Mathematics & Statistics,Stable
+KGL1793,Business,3.33,89,77,83.9,83.8,Semester 2,Data Structures,Scholarship
+KGL1794,Business,1.93,42,51,49.6,52.9,Semester 1,Mathematics & Statistics,Stable
+KGL1795,Business,2.64,57,73,72.9,65.5,Semester 2,Machine Learning,Stable
+KGL1796,Business,2.8,70,70,67.0,73.4,Semester 1,Mathematics & Statistics,Stable
+KGL1797,Business,3.13,70,81,82.9,83.3,Semester 2,Web Development,Under Review
+KGL1798,Business,2.44,69,54,59.0,55.3,Semester 1,Database Systems,Stable
+KGL1799,Business,2.19,52,57,61.2,59.1,Semester 2,Data Structures,Under Review
+KGL1800,Business,2.77,67,68,71.4,74.3,Semester 1,Introduction to Programming,Stable
+KGL1801,Business,3.05,76,73,81.8,72.6,Semester 2,Web Development,Scholarship
+KGL1802,Business,3.68,87,95,85.4,88.9,Semester 1,Database Systems,Scholarship
+KGL1803,Business,3.39,82,87,83.9,90.7,Semester 2,Web Development,Stable
+KGL1804,Business,3.03,73,78,81.0,69.3,Semester 1,Mathematics & Statistics,Stable
+KGL1805,Business,3.07,75,74,77.3,73.2,Semester 2,Data Structures,Stable
+KGL1806,Business,2.84,64,75,75.7,78.9,Semester 1,Database Systems,Scholarship
+KGL1807,Business,1.68,41,40,44.2,49.3,Semester 2,Machine Learning,Scholarship
+KGL1808,Business,3.12,90,69,82.1,77.3,Semester 1,Database Systems,Stable
+KGL1809,Business,2.19,59,51,56.3,53.4,Semester 2,Web Development,Under Review
+KGL1810,Business,1.57,51,36,40.0,35.9,Semester 1,Mathematics & Statistics,Stable
+KGL1811,Business,1.88,45,49,41.9,46.1,Semester 2,Web Development,Stable
+KGL1812,Business,2.47,54,67,51.8,55.7,Semester 1,Mathematics & Statistics,Stable
+KGL1813,Business,3.29,87,76,79.4,74.0,Semester 2,Web Development,Under Review
+KGL1814,Business,3.13,72,83,78.1,78.7,Semester 1,Mathematics & Statistics,Scholarship
+KGL1815,Business,3.56,94,87,85.2,81.0,Semester 2,Web Development,Scholarship
+KGL1816,Business,2.24,45,64,55.1,57.3,Semester 1,Introduction to Programming,Stable
+KGL1817,Business,2.76,61,76,80.8,70.2,Semester 2,Data Structures,Scholarship
+KGL1818,Business,2.67,60,68,70.4,63.7,Semester 1,Mathematics & Statistics,Stable
+KGL1819,Business,3.41,77,88,87.1,90.3,Semester 2,Data Structures,Scholarship
+KGL1820,Business,3.56,85,92,93.7,78.4,Semester 1,Introduction to Programming,Stable
+KGL1821,Business,3.48,78,93,94.0,85.6,Semester 2,Data Structures,Stable
+KGL1822,Business,2.03,49,51,46.2,51.9,Semester 1,Introduction to Programming,Stable
+KGL1823,Business,3.2,71,82,83.3,78.5,Semester 2,Machine Learning,Stable
+KGL1824,Business,2.11,48,52,52.8,63.2,Semester 1,Mathematics & Statistics,Stable
+KGL1825,Business,2.49,62,58,49.3,64.7,Semester 2,Data Structures,Scholarship
+KGL1826,Business,2.59,56,70,63.9,70.2,Semester 1,Mathematics & Statistics,Stable
+KGL1827,Business,2.8,65,76,70.4,74.5,Semester 2,Web Development,Stable
+KGL1828,Business,3.15,69,81,78.8,86.4,Semester 1,Introduction to Programming,Stable
+KGL1829,Business,2.33,68,53,62.5,53.1,Semester 2,Machine Learning,Stable
+KGL1830,Business,2.37,61,57,61.6,60.1,Semester 1,Mathematics & Statistics,Scholarship
+KGL1831,Business,3.32,74,89,81.5,86.7,Semester 2,Data Structures,Stable
+KGL1832,Business,2.43,64,58,53.3,54.1,Semester 1,Introduction to Programming,Stable
+KGL1833,Business,3.31,77,89,78.9,77.8,Semester 2,Web Development,Stable
+KGL1834,Business,2.04,58,45,54.7,46.7,Semester 1,Introduction to Programming,Stable
+KGL1835,Business,2.64,60,74,67.3,75.8,Semester 2,Machine Learning,Stable
+KGL1836,Business,2.59,73,57,59.7,68.9,Semester 1,Introduction to Programming,Under Review
+KGL1837,Business,3.15,75,79,78.9,84.0,Semester 2,Machine Learning,Stable
+KGL1838,Business,2.24,58,53,59.4,55.9,Semester 1,Mathematics & Statistics,Scholarship
+KGL1839,Business,2.88,66,73,67.6,82.3,Semester 2,Machine Learning,Stable
+KGL1840,Business,1.83,39,46,44.5,49.8,Semester 1,Introduction to Programming,Stable
+KGL1841,Business,2.31,64,51,50.6,60.3,Semester 2,Web Development,Stable
+KGL1842,Business,1.37,23,36,40.0,46.9,Semester 1,Introduction to Programming,Stable
+KGL1843,Business,3.03,74,76,78.2,75.2,Semester 2,Data Structures,Scholarship
+KGL1844,Business,2.25,40,64,60.0,70.1,Semester 1,Mathematics & Statistics,Scholarship
+KGL1845,Business,3.45,90,84,88.1,89.4,Semester 2,Machine Learning,Stable
+KGL1846,Business,3.48,91,85,82.2,82.9,Semester 1,Database Systems,Stable
+KGL1847,Business,2.24,64,50,60.3,47.9,Semester 2,Data Structures,Stable
+KGL1848,Business,2.65,59,68,65.5,71.3,Semester 1,Database Systems,Under Review
+KGL1849,Business,2.99,80,69,69.9,74.5,Semester 2,Web Development,Stable
+KGL1850,Business,2.73,71,67,64.0,62.8,Semester 1,Introduction to Programming,Stable
+KGL1851,Business,2.56,61,63,58.6,70.8,Semester 2,Web Development,Stable
+KGL1852,Business,3.53,87,93,83.3,87.7,Semester 1,Mathematics & Statistics,Stable
+KGL1853,Business,2.8,82,61,70.9,68.6,Semester 2,Web Development,Scholarship
+KGL1854,Business,2.41,62,55,63.8,65.9,Semester 1,Introduction to Programming,Stable
+KGL1855,Business,3.87,97,96,96.1,92.6,Semester 2,Web Development,Stable
+KGL1856,Business,2.77,75,65,67.0,69.9,Semester 1,Mathematics & Statistics,Stable
+KGL1857,Business,3.0,65,81,71.6,83.1,Semester 2,Data Structures,Under Review
+KGL1858,Business,1.96,52,46,41.9,51.4,Semester 1,Mathematics & Statistics,Stable
+KGL1859,Business,3.09,87,72,80.9,77.5,Semester 2,Data Structures,Stable
+KGL1860,Business,2.24,53,53,55.6,67.1,Semester 1,Introduction to Programming,Under Review
+KGL1861,Business,3.39,81,87,80.7,79.0,Semester 2,Data Structures,Stable
+KGL1862,Business,1.59,39,38,40.0,41.2,Semester 1,Database Systems,Stable
+KGL1863,Business,2.96,71,80,73.9,72.2,Semester 2,Web Development,Under Review
+KGL1864,Business,3.75,97,91,94.2,96.7,Semester 1,Introduction to Programming,Stable
+KGL1865,Sciences,3.36,82,88,86.6,85.7,Semester 2,Machine Learning,Stable
+KGL1866,Sciences,2.19,59,52,56.5,46.4,Semester 1,Introduction to Programming,Stable
+KGL1867,Sciences,1.92,61,41,60.0,37.0,Semester 2,Machine Learning,Stable
+KGL1868,Sciences,2.99,78,72,67.7,70.9,Semester 1,Mathematics & Statistics,Under Review
+KGL1869,Sciences,2.01,49,51,46.0,50.3,Semester 2,Web Development,Stable
+KGL1870,Sciences,2.19,59,47,52.1,61.4,Semester 1,Introduction to Programming,Stable
+KGL1871,Sciences,2.91,70,76,78.1,64.4,Semester 2,Web Development,Scholarship
+KGL1872,Sciences,3.25,82,78,86.3,81.2,Semester 1,Mathematics & Statistics,Stable
+KGL1873,Sciences,3.49,90,82,84.7,87.0,Semester 2,Data Structures,Scholarship
+KGL1874,Sciences,2.21,43,61,48.1,61.4,Semester 1,Mathematics & Statistics,Stable
+KGL1875,Sciences,2.8,80,66,71.5,66.6,Semester 2,Machine Learning,Scholarship
+KGL1876,Sciences,3.29,81,84,82.7,90.2,Semester 1,Introduction to Programming,Scholarship
+KGL1877,Sciences,2.29,57,54,60.4,55.4,Semester 2,Web Development,Stable
+KGL1878,Sciences,2.81,59,80,62.9,67.6,Semester 1,Mathematics & Statistics,Stable
+KGL1879,Sciences,2.85,64,74,71.3,78.0,Semester 2,Machine Learning,Stable
+KGL1880,Sciences,2.57,63,66,65.7,59.6,Semester 1,Database Systems,Scholarship
+KGL1881,Sciences,2.81,71,70,72.3,66.8,Semester 2,Machine Learning,Stable
+KGL1882,Sciences,2.77,64,71,67.0,73.2,Semester 1,Mathematics & Statistics,Stable
+KGL1883,Sciences,1.93,55,44,40.6,50.6,Semester 2,Web Development,Stable
+KGL1884,Sciences,2.08,51,54,55.7,55.9,Semester 1,Database Systems,Stable
+KGL1885,Sciences,2.91,62,80,81.3,77.7,Semester 2,Web Development,Scholarship
+KGL1886,Sciences,3.84,93,95,99.8,100.0,Semester 1,Introduction to Programming,Stable
+KGL1887,Sciences,2.47,54,59,61.9,76.3,Semester 2,Data Structures,Under Review
+KGL1888,Sciences,2.77,69,74,74.6,74.6,Semester 1,Database Systems,Stable
+KGL1889,Sciences,1.91,44,48,46.5,54.4,Semester 2,Machine Learning,Stable
+KGL1890,Sciences,3.49,86,91,86.1,82.1,Semester 1,Mathematics & Statistics,Stable
+KGL1891,Sciences,3.49,85,85,83.6,95.4,Semester 2,Machine Learning,Stable
+KGL1892,Sciences,2.53,50,73,51.3,66.0,Semester 1,Database Systems,Stable
+KGL1893,Sciences,3.16,88,75,76.4,81.8,Semester 2,Machine Learning,Scholarship
+KGL1894,Sciences,2.53,59,69,56.0,57.9,Semester 1,Mathematics & Statistics,Scholarship
+KGL1895,Sciences,1.39,32,38,40.0,30.0,Semester 2,Web Development,Stable
+KGL1896,Sciences,1.23,36,27,40.0,36.7,Semester 1,Mathematics & Statistics,Stable
+KGL1897,Sciences,2.93,63,79,72.3,78.6,Semester 2,Web Development,Stable
+KGL1898,Sciences,2.45,67,63,57.7,50.6,Semester 1,Mathematics & Statistics,Stable
+KGL1899,Sciences,3.0,65,82,85.5,79.2,Semester 2,Data Structures,Under Review
+KGL1900,Sciences,3.44,85,89,83.8,78.6,Semester 1,Database Systems,Stable
+KGL1901,Sciences,3.0,73,74,63.9,80.0,Semester 2,Data Structures,Stable
+KGL1902,Sciences,1.64,34,41,46.7,46.9,Semester 1,Introduction to Programming,Scholarship
+KGL1903,Sciences,3.91,93,100,100.0,96.9,Semester 2,Machine Learning,Scholarship
+KGL1904,Sciences,3.13,67,84,75.7,85.6,Semester 1,Database Systems,Stable
+KGL1905,Sciences,3.23,88,77,87.1,76.1,Semester 2,Web Development,Scholarship
+KGL1906,Sciences,2.08,57,51,48.9,51.8,Semester 1,Mathematics & Statistics,Stable
+KGL1907,Sciences,3.39,79,91,90.9,87.1,Semester 2,Web Development,Stable
+KGL1908,Sciences,2.85,67,72,65.0,78.5,Semester 1,Database Systems,Scholarship
+KGL1909,Sciences,2.72,70,70,69.4,56.3,Semester 2,Data Structures,Scholarship
+KGL1910,Sciences,1.87,50,48,50.7,50.2,Semester 1,Database Systems,Under Review
+KGL1911,Sciences,3.13,69,82,72.0,74.1,Semester 2,Data Structures,Stable
+KGL1912,Sciences,2.39,52,66,66.0,61.3,Semester 1,Mathematics & Statistics,Stable
+KGL1913,Sciences,2.33,47,66,65.9,63.5,Semester 2,Data Structures,Stable
+KGL1914,Sciences,2.16,46,55,50.7,52.6,Semester 1,Introduction to Programming,Stable
+KGL1915,Sciences,2.72,68,66,77.7,70.7,Semester 2,Data Structures,Scholarship
+KGL1916,Sciences,4.0,100,100,95.8,100.0,Semester 1,Mathematics & Statistics,Stable
+KGL1917,Sciences,2.09,44,52,47.9,61.4,Semester 2,Data Structures,Scholarship
+KGL1918,Sciences,2.85,57,80,79.7,80.4,Semester 1,Mathematics & Statistics,Stable
+KGL1919,Sciences,3.71,91,91,90.1,91.0,Semester 2,Data Structures,Stable
+KGL1920,Sciences,2.75,69,67,64.6,79.4,Semester 1,Introduction to Programming,Scholarship
+KGL1921,Sciences,1.79,35,46,40.0,57.2,Semester 2,Machine Learning,Stable
+KGL1922,Sciences,2.72,72,66,68.1,69.8,Semester 1,Mathematics & Statistics,Under Review
+KGL1923,Sciences,2.45,54,65,65.4,66.6,Semester 2,Machine Learning,Stable
+KGL1924,Sciences,2.84,74,69,75.1,76.7,Semester 1,Introduction to Programming,Stable
+KGL1925,Sciences,2.64,74,60,65.3,65.8,Semester 2,Web Development,Stable
+KGL1926,Sciences,2.29,64,52,56.0,56.7,Semester 1,Mathematics & Statistics,Stable
+KGL1927,Sciences,2.63,65,71,62.3,67.2,Semester 2,Web Development,Stable
+KGL1928,Sciences,1.77,46,44,46.4,43.6,Semester 1,Introduction to Programming,Stable
+KGL1929,Sciences,2.07,48,51,55.2,54.2,Semester 2,Data Structures,Stable
+KGL1930,Sciences,2.81,67,70,73.4,73.9,Semester 1,Introduction to Programming,Stable
+KGL1931,Sciences,2.41,62,62,62.0,60.9,Semester 2,Machine Learning,Stable
+KGL1932,Sciences,2.73,61,73,68.0,68.8,Semester 1,Database Systems,Scholarship
+KGL1933,Sciences,2.92,70,74,71.1,70.8,Semester 2,Machine Learning,Scholarship
+KGL1934,Sciences,3.67,98,90,91.9,90.1,Semester 1,Introduction to Programming,Scholarship
+KGL1935,Sciences,2.55,70,58,66.8,53.2,Semester 2,Machine Learning,Scholarship
+KGL1936,Sciences,2.36,67,53,57.8,65.6,Semester 1,Database Systems,Stable
+KGL1937,Sciences,2.29,57,57,52.7,56.5,Semester 2,Data Structures,Scholarship
+KGL1938,Sciences,3.35,85,85,81.1,77.4,Semester 1,Mathematics & Statistics,Stable
+KGL1939,Sciences,2.85,77,69,71.7,57.0,Semester 2,Data Structures,Stable
+KGL1940,Sciences,2.8,72,72,60.6,63.6,Semester 1,Database Systems,Stable
+KGL1941,Sciences,3.53,78,96,92.0,86.4,Semester 2,Machine Learning,Stable
+KGL1942,Sciences,2.81,81,64,69.9,61.2,Semester 1,Database Systems,Stable
+KGL1943,Sciences,2.45,61,61,66.6,63.8,Semester 2,Data Structures,Scholarship
+KGL1944,Sciences,2.49,58,61,55.7,67.8,Semester 1,Database Systems,Stable
+KGL1945,Sciences,2.31,54,58,64.3,54.1,Semester 2,Web Development,Scholarship
+KGL1946,Sciences,3.25,82,80,86.9,88.3,Semester 1,Mathematics & Statistics,Stable
+KGL1947,Sciences,2.23,49,60,52.8,60.4,Semester 2,Data Structures,Stable
+KGL1948,Sciences,2.01,49,52,48.6,55.8,Semester 1,Introduction to Programming,Stable
+KGL1949,Sciences,2.73,57,73,67.8,75.2,Semester 2,Machine Learning,Stable
+KGL1950,Sciences,3.17,94,71,79.4,71.3,Semester 1,Introduction to Programming,Under Review
+KGL1951,Sciences,3.13,75,83,76.8,74.1,Semester 2,Machine Learning,Stable
+KGL1952,Sciences,2.93,74,72,78.4,82.0,Semester 1,Database Systems,Stable
+KGL1953,Sciences,2.19,58,54,52.5,58.7,Semester 2,Machine Learning,Scholarship
+KGL1954,Sciences,2.67,62,69,58.0,75.3,Semester 1,Introduction to Programming,Stable
+KGL1955,Sciences,2.55,72,62,57.0,62.5,Semester 2,Machine Learning,Stable
+KGL1956,Sciences,3.36,84,81,88.2,85.8,Semester 1,Mathematics & Statistics,Scholarship
+KGL1957,Sciences,3.89,92,100,94.2,100.0,Semester 2,Data Structures,Scholarship
+KGL1958,Sciences,2.23,45,59,60.6,58.0,Semester 1,Mathematics & Statistics,Scholarship
+KGL1959,Sciences,3.03,75,71,78.8,75.0,Semester 2,Data Structures,Stable
+KGL1960,Sciences,2.37,56,64,57.2,53.9,Semester 1,Introduction to Programming,Stable
+KGL1961,Sciences,2.07,48,53,48.4,60.0,Semester 2,Data Structures,Stable
+KGL1962,Sciences,4.0,100,100,99.7,100.0,Semester 1,Introduction to Programming,Stable
+KGL1963,Sciences,2.88,65,75,80.0,72.3,Semester 2,Machine Learning,Scholarship
+KGL1964,Sciences,2.49,72,58,72.8,58.0,Semester 1,Mathematics & Statistics,Stable
+KGL1965,Sciences,2.72,62,72,69.5,71.4,Semester 2,Data Structures,Under Review
+KGL1966,Sciences,2.64,66,64,68.9,55.8,Semester 1,Database Systems,Stable
+KGL1967,Sciences,2.48,63,60,68.9,68.4,Semester 2,Web Development,Stable
+KGL1968,Sciences,2.81,68,67,69.2,63.9,Semester 1,Introduction to Programming,Under Review
+KGL1969,Sciences,3.19,75,80,80.4,88.5,Semester 2,Web Development,Stable
+KGL1970,Sciences,3.85,89,100,96.8,99.6,Semester 1,Database Systems,Stable
+KGL1971,Sciences,2.92,78,69,77.3,70.4,Semester 2,Web Development,Scholarship
+KGL1972,Sciences,2.17,53,60,49.6,58.4,Semester 1,Introduction to Programming,Stable
+KGL1973,Computer Science,2.33,49,61,59.2,58.3,Semester 2,Machine Learning,Scholarship
+KGL1974,Computer Science,2.45,54,67,70.8,60.6,Semester 1,Database Systems,Under Review
+KGL1975,Computer Science,2.97,64,77,68.5,87.3,Semester 2,Web Development,Scholarship
+KGL1976,Computer Science,2.43,60,60,56.8,68.8,Semester 1,Introduction to Programming,Stable
+KGL1977,Computer Science,2.47,62,58,60.8,58.0,Semester 2,Data Structures,Stable
+KGL1978,Computer Science,1.92,55,48,40.0,39.2,Semester 1,Mathematics & Statistics,Stable
+KGL1979,Computer Science,3.73,91,94,88.4,98.8,Semester 2,Data Structures,Stable
+KGL1980,Computer Science,0.73,8,23,40.0,30.0,Semester 1,Mathematics & Statistics,Under Review
+KGL1981,Computer Science,3.16,81,78,80.9,78.2,Semester 2,Web Development,Scholarship
+KGL1982,Computer Science,3.33,79,86,75.3,77.3,Semester 1,Mathematics & Statistics,Scholarship
+KGL1983,Computer Science,3.41,78,91,86.9,81.2,Semester 2,Data Structures,Scholarship
+KGL1984,Computer Science,3.08,74,82,69.0,79.2,Semester 1,Introduction to Programming,Stable
+KGL1985,Computer Science,2.16,57,54,40.0,47.6,Semester 2,Data Structures,Scholarship
+KGL1986,Computer Science,2.0,40,51,49.1,64.0,Semester 1,Database Systems,Scholarship
+KGL1987,Computer Science,3.09,81,76,76.8,67.7,Semester 2,Data Structures,Under Review
+KGL1988,Computer Science,1.79,44,45,46.0,48.3,Semester 1,Mathematics & Statistics,Scholarship
+KGL1989,Computer Science,3.15,67,83,83.6,90.4,Semester 2,Data Structures,Stable
+KGL1990,Computer Science,3.23,86,75,72.2,78.5,Semester 1,Introduction to Programming,Scholarship
+KGL1991,Computer Science,3.0,65,78,71.3,87.2,Semester 2,Machine Learning,Stable
+KGL1992,Computer Science,2.76,55,76,71.9,75.4,Semester 1,Introduction to Programming,Stable
+KGL1993,Computer Science,2.77,62,74,61.8,70.9,Semester 2,Data Structures,Stable
+KGL1994,Computer Science,2.51,63,62,56.6,62.2,Semester 1,Mathematics & Statistics,Scholarship
+KGL1995,Computer Science,3.76,88,95,92.1,92.4,Semester 2,Machine Learning,Stable
+KGL1996,Computer Science,2.29,62,55,53.7,62.1,Semester 1,Introduction to Programming,Stable
+KGL1997,Computer Science,2.6,59,65,53.9,73.8,Semester 2,Data Structures,Scholarship
+KGL1998,Computer Science,2.97,68,77,69.1,74.8,Semester 1,Database Systems,Scholarship
+KGL1999,Computer Science,3.32,77,86,92.1,97.7,Semester 2,Data Structures,Stable

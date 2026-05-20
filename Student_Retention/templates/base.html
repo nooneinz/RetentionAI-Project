@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}RetentionAI Portal{% endblock %}</title>
+    <!-- FontAwesome v6 CDN vector icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Modern Typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Chart.js Library for Academic Analytics Visuals -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <style>
+        :root {
+            --primary-navy: #59613A;      /* Dark Matcha Green */
+            --accent-green: #7A8450;      /* Matcha Green */
+            --accent-gold: #8E9A5E;       /* Light Matcha Green Accent */
+            --danger-red: #A93226;        /* Academic Muted Red */
+            --bg-light: #F8EFDA;          /* Vanilla Cream */
+            --text-dark: #2E331F;         /* Deep Dark Olive Charcoal */
+            --text-muted: #686F51;        /* Muted Matcha Olive */
+            --white: #FFFFFF;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow-x: hidden;
+        }
+
+        /* Fixed Global Academic Navbar Header */
+        .global-header {
+            background-color: var(--primary-navy);
+            color: var(--white);
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 70px;
+            z-index: 1000;
+            border-bottom: 3px solid var(--accent-green);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .global-navbar {
+            max-width: 1400px;
+            margin: 0 auto;
+            height: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+        }
+
+        .global-brand {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 1.3rem;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            color: var(--white);
+            text-decoration: none;
+        }
+
+        .global-brand i {
+            color: var(--accent-gold);
+            font-size: 1.5rem;
+        }
+
+        .global-nav-links {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            list-style: none;
+        }
+
+        .global-nav-links a {
+            color: #BDC3C7;
+            font-size: 0.9rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            text-decoration: none;
+            padding: 8px 12px;
+            border-radius: 4px;
+            transition: all 0.3s ease;
+        }
+
+        .global-nav-links a:hover, .global-nav-links a.active {
+            color: var(--white);
+            background-color: rgba(255, 255, 255, 0.08);
+        }
+
+        .btn-global-logout {
+            background-color: var(--danger-red);
+            color: var(--white);
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: background-color 0.3s ease;
+            text-decoration: none;
+        }
+
+        .btn-global-logout:hover {
+            background-color: #782117;
+        }
+
+        /* Fixed Institutional Footer */
+        .global-footer {
+            background-color: var(--primary-navy);
+            color: var(--white);
+            border-top: 4px solid var(--accent-gold);
+            padding: 15px 20px;
+            text-align: center;
+            font-size: 0.82rem;
+            z-index: 1000;
+            margin-top: auto;
+        }
+
+        .global-footer-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            color: #BDC3C7;
+        }
+
+        .global-footer-links {
+            display: flex;
+            gap: 20px;
+        }
+
+        .global-footer-links a {
+            color: #BDC3C7;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .global-footer-links a:hover {
+            color: var(--white);
+        }
+
+        /* Main Content Container wrapper */
+        .main-container {
+            margin-top: 70px; /* Offset for header */
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            background-color: var(--bg-light);
+        }
+
+        {% block extra_styles %}{% endblock %}
+    </style>
+</head>
+<body>
+
+    <!-- MASTER GLOBAL NAVBAR (HEADER) -->
+    <header class="global-header">
+        <nav class="global-navbar">
+            <a href="/" class="global-brand">
+                <i class="fa-solid fa-brain"></i> RetentionAI
+            </a>
+            
+            {% if session.get('role') %}
+            <ul class="global-nav-links">
+                <li>
+                    <span style="font-size: 0.8rem; color: #BDC3C7; text-transform: uppercase; font-weight: 700; border-right: 1px solid rgba(255,255,255,0.15); padding-right: 15px; margin-right: 5px;">
+                        Role: {{ session.get('role') }} ({{ session.get('user_id') }})
+                    </span>
+                </li>
+                {% if session.get('role') == 'Admin' %}
+                    <li><a href="/admin_dashboard">Dashboard</a></li>
+                {% elif session.get('role') == 'Instructor' %}
+                    <li><a href="/instructor_dashboard">Dashboard</a></li>
+                {% elif session.get('role') == 'Student' %}
+                    <li><a href="/student/dashboard">Academic Hub</a></li>
+                {% endif %}
+                <li>
+                    <a href="/logout" class="btn-global-logout">
+                        <i class="fa-solid fa-right-from-bracket"></i> Sign Out
+                    </a>
+                </li>
+            </ul>
+            {% else %}
+            <ul class="global-nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/login"><button class="btn-global-logout" style="background-color: var(--accent-gold);"><i class="fa-solid fa-lock"></i> Portal Login</button></a></li>
+            </ul>
+            {% endif %}
+        </nav>
+    </header>
+
+    <!-- CONTENT WRAPPER -->
+    <div class="main-container">
+        {% block content %}{% endblock %}
+    </div>
+
+    <!-- MASTER INSTITUTIONAL FOOTER -->
+    <footer class="global-footer">
+        <div class="global-footer-content">
+            <p><i class="fa-regular fa-copyright"></i> 2026 RetentionAI Student Retention & Early Intervention Graduation Project. Bounded by Ministry of Higher Education & Research standards.</p>
+            <div class="global-footer-links">
+                <a href="#">System Regulations</a>
+                <span>|</span>
+                <a href="#">Academic Ethics Code</a>
+            </div>
+        </div>
+    </footer>
+
+    {% block extra_scripts %}{% endblock %}
+</body>
+</html>
